@@ -246,20 +246,20 @@ def generate_web_html(date_str=None):
   <h2 class="section-title">📊 Biểu đồ Thị trường Tự động</h2>
   <div class="charts-grid">
     <div class="chart-card">
-      <img src="output/charts/vnindex_intraday.png" alt="VNIndex Intraday" onerror="this.style.display='none'">
-      <div style="font-size:0.85rem; margin-top:6px;">Diễn biến VN-Index In-day</div>
+      <img src="./output/charts/vnindex_intraday.png" alt="VNIndex Intraday">
+      <div style="font-size:0.85rem; margin-top:6px; font-weight: 500;">Diễn biến VN-Index In-day</div>
     </div>
     <div class="chart-card">
-      <img src="output/charts/market_liquidity.png" alt="Thanh khoản" onerror="this.style.display='none'">
-      <div style="font-size:0.85rem; margin-top:6px;">Thanh khoản Thị trường</div>
+      <img src="./output/charts/market_liquidity.png" alt="Thanh khoản">
+      <div style="font-size:0.85rem; margin-top:6px; font-weight: 500;">Thanh khoản Thị trường</div>
     </div>
     <div class="chart-card">
-      <img src="output/charts/institutional_flow.png" alt="Dòng tiền Tổ chức" onerror="this.style.display='none'">
-      <div style="font-size:0.85rem; margin-top:6px;">Dòng tiền Khối ngoại &amp; Tự doanh</div>
+      <img src="./output/charts/institutional_flow.png" alt="Dòng tiền Tổ chức">
+      <div style="font-size:0.85rem; margin-top:6px; font-weight: 500;">Dòng tiền Khối ngoại &amp; Tự doanh</div>
     </div>
     <div class="chart-card">
-      <img src="output/charts/market_breadth.png" alt="Độ rộng Thị trường" onerror="this.style.display='none'">
-      <div style="font-size:0.85rem; margin-top:6px;">Độ rộng Thị trường</div>
+      <img src="./output/charts/market_breadth.png" alt="Độ rộng Thị trường">
+      <div style="font-size:0.85rem; margin-top:6px; font-weight: 500;">Độ rộng Thị trường</div>
     </div>
   </div>
 
