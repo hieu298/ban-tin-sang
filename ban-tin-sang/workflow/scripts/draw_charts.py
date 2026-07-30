@@ -210,9 +210,12 @@ def draw_market_breadth_chart():
                 f"{val:,.0f} tỷ", 
                 ha='center', va='bottom', fontsize=9, fontweight='bold', color='#333')
         
-    print(f"✅ Đã vẽ biểu đồ và lưu tại: {out_path}")
-
-    print(f"✅ Đã vẽ biểu đồ và lưu tại: {out_path}")
+    plt.suptitle("ĐỘ RỘNG THỊ TRƯỜNG & DÒNG TIỀN (VNDIRECT)", fontsize=14, fontweight='bold', color='#2c3e50', y=1.05)
+    plt.tight_layout()
+    plt.savefig(out_path, dpi=150, bbox_inches='tight', facecolor='white')
+    plt.close()
+    
+    print(f"✅ Đã vẽ biểu đồ độ rộng thị trường VNDirect và lưu tại: {out_path}")
 
 def draw_market_breadth_area_chart():
     script_dir = Path(__file__).parent.resolve()
