@@ -1,0 +1,60 @@
+---
+date: 2026-07-01
+source: vira.org.vn × MSB Research
+published: 08:14 01/07/2026
+url: https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-01-07-2026-.html
+pdf: https://vira.org.vn/upload/news/26/07/01/260701_Ban_tin_kinh_te_tai_chinh_MSB_Research_FTCI.pdf
+---
+
+# 📊 Bản tin Kinh tế - Tài chính | Thứ Tư 01/07/2026
+
+> **Nguồn**: [VIRA](https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-01-07-2026-.html) × MSB Research
+> **Đăng**: 08:14 01/07/2026 &nbsp;|&nbsp; **Lưu**: 10:53 01/07/2026
+
+> 💡 **Ngày 27/06/2026, Chính Phủ ban hành Nghị quyết 168/NQ-CP về cập nhật kịch bản tăng trưởng và giải pháp trọng tâm trong các quý còn lại năm 2026.**
+
+---
+
+## 🇻🇳 Tin trong nước
+
+Thị trường ngoại tệ: Phiên 30/06, NHNN niêm yết tỷ giá trung tâm ở mức 25.206 VND/USD, tăng 05 đồng so với phiên đầu tuần. Tỷ giá mua giao ngay được niêm yết ở mức 23.996 VND/USD, cao hơn 50 đồng so với tỷ giá sàn. Tỷ giá bán giao ngay được niêm yết ở mức 26.416 VND/USD, thấp hơn 50 đồng so với tỷ giá trần. Trên thị trường LNH, tỷ giá chốt phiên với mức 26.314 VND/USD, tăng 26 đồng so với phiên 29/06. Tỷ giá trên thị trường tự do tăng 68 đồng ở chiều mua vào và 88 đồng ở chiều bán ra, giao dịch tại 26.507 VND/USD và 26.627 VND/USD.
+
+### 🏦 Thị trường tiền tệ LNH: Ngày 30/06, lãi suất bình quân LNH VND tăng 0,50 – 9,40 đpt ở các kỳ hạn ON và 1M trong khi giữ nguyên ở các kỳ hạn 1W và 2W so với phiên đầu tuần, giao dịch tại: ON 13,00%; 1W 8,50%; 2W 8,00% và 1M 8,10%. Lãi suất bình quân LNH USD giảm 0,01 đpt ở các kỳ hạn ON và 2W trong khi giữ nguyên ở các kỳ hạn 1W và 1M; giao dịch tại: ON 3,66%; 1W 3,70%; 2W 3,74%, 1M 3,80%. Lợi suất TPCP trên thị trường thứ cấp tăng ở các kỳ hạn ngắn trong khi giảm ở các kỳ hạn 10Y và 15Y, chốt phiên ở mức:
+
+3Y 3,57%; 5Y 4,20%; 7Y 4,26%; 10Y 4,40%; 15Y 4,57%.
+
+### ⚙️ Nghiệp vụ thị trường mở:
+
+Trên kênh cầm cố, NHNN chào thầu 22.000 tỷ đồng ở kỳ hạn 7 ngày, 8.000 tỷ đồng mỗi kỳ hạn 35 ngày và 56 ngày, lãi suất đều ở mức 4,5%. Có 16.496,41 tỷ đồng trúng thầu ở kỳ hạn 7 ngày, 8.000 tỷ đồng trúng thầu ở kỳ hạn 35 ngày, 7.054,71 tỷ đồng ở kỳ hạn 56 ngày. Có 17.000 tỷ đồng đáo hạn. NHNN không chào thầu tín phiếu NHNN. Như vậy, hôm qua NHNN bơm ròng 14.551,12 tỷ đồng ra thị trường qua nghiệp vụ thị trường mở. Có 245.402,77 tỷ đồng lưu hành trên kênh cầm cố.
+
+### 📈 Thị trường chứng khoán:
+
+Thị trường chứng khoán phiên đầu tuần chưa có bứt phá, các chỉ số chốt phiên trái chiều. Kết thúc phiên giao dịch, VN-Index tăng 5,04 điểm (+0,27%) lên mức 1.860,01 điểm; HNX-Index giảm 4,83 điểm (-1,52%) còn 313,16 điểm; UPCoM-Index thêm 0,62 điểm (+0,48%) đạt 129,94 điểm. Thanh khoản thị trường tiếp tục ở mức thấp với khối lượng giao dịch gần 14.500 tỷ đồng. Khối ngoại bán ròng gần 1.200 tỷ đồng.
+
+**Diễn biến Chỉ số Chứng khoán:**
+| Chỉ số | Điểm số | Thay đổi (+/-) | % Thay đổi |
+|---|---|---|---|
+| VN-Index | 1 | +5,04 | +0,27% |
+| HNX-Index | 313,16 | -4,83 | -1,52% |
+| UPCoM-Index | 129,94 | +0,62 | +0,48% |
+
+Ngày 27/06/2026
+
+, Chính Phủ ban hành Nghị quyết 168/NQ-CP về cập nhật kịch bản tăng trưởng và giải pháp trọng tâm trong các quý còn lại năm 2026. Một trong những nội dung đáng chú ý tại Nghị quyết 168/NQ-CP là Chính phủ đặt mục tiêu GDP 11,9% trong 06 tháng cuối năm 2026. Trong đó: ngành nông, lâm, thủy sản tăng trưởng khoảng 4,3%; ngành công nghiệp, xây dựng tăng trưởng khoảng 14,3%; ngành dịch vụ tăng trưởng khoảng 12,0%. Về phối hợp CSTK, CSTT, NQ giao NHNN trong năm 2026 tiếp tục nghiên cứu nâng tỷ lệ tiền gửi có kỳ hạn của KBNN tại các NHTM vào nguồn vốn huy động của các NHTM để bổ sung thanh khoản cho hệ thống NH; giao Bộ Tài chính chủ động quyết định hạn mức cụ thể sử dụng ngân quỹ nhà nước tạm thời nhàn rỗi để gửi có kỳ hạn tại NHTM (có thể vượt quá 50% khả năng ngân quỹ nhà nước tạm thời nhàn rỗi).
+
+## 🌍 Tin quốc tế
+
+Tổ chức Conference Board khảo sát cho biết chỉ số niềm tin tiêu dùng tại Mỹ ở mức 91,2 điểm trong tháng 6, tăng lên từ 90,6 điểm của tháng 5 (kết quả tháng 5 điều chỉnh xuống từ 93,1 điểm theo sơ bộ), song vẫn thấp hơn mức 94,4 điểm theo dự báo. Tiếp theo, về thị trường lao động, nước Mỹ tạo ra 7,59 triệu cơ hội việc làm mới trong tháng 5, đi ngang so với kết quả thống kê của tháng 4 và cao hơn mức 7,28 triệu theo kỳ vọng.
+Văn phòng Thống kê Liên bang Đức Destatis công bố chỉ số giá tiêu dùng CPI toàn phần tại nước này giảm 0,3% m/m trong tháng 6, nối tiếp đà giảm 0,2% của tháng 5 và trái với dự báo đi ngang (0,0% m/m) từ thị trường. So với cùng kỳ năm 2025, CPI toàn phần tăng khoảng 2,3% y/y, tiếp tục thu hẹp xuống từ 2,9% ở tháng 4 và 2,6% ở tháng 5. Nguyên nhân chính do đà tăng của giá năng lượng đã thu hẹp đáng kể, về mức 3,4% y/y, thấp hơn nhiều so với đỉnh 10,1% y/y trong tháng 4 và 6,6% ở tháng 5. Bên cạnh đó, giá cả lĩnh vực dịch vụ tại Đức luôn giữ ở mức ổn định trong nhiều tháng vừa qua, với mức tăng dao động từ 2,8% - 3,1% y/y. Tiếp theo, về thị trường bán lẻ, doanh số bán lẻ toàn phần tại nước Đức tăng khá mạnh 1,1% m/m trong tháng 5 sau khi giảm 0,4% ở tháng 4, trái với dự báo đi ngang (0,0% m/m). So với cùng kỳ năm trước, doanh số bán lẻ toàn phần tăng khoảng 1,8% y/y.
+Bản tin Kinh tế - Tài chính ngày 01/07/2026
+<div
+
+---
+
+## 📎 Tải PDF đầy đủ
+
+[260701_Ban_tin_kinh_te_tai_chinh_MSB_Research_FTCI.pdf](https://vira.org.vn/upload/news/26/07/01/260701_Ban_tin_kinh_te_tai_chinh_MSB_Research_FTCI.pdf) (Xem bảng biểu và biểu đồ)
+
+---
+
+*Thu thập bởi `collect_vira_pdf.py` | 10:53 01/07/2026*
