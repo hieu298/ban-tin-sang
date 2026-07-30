@@ -1,6 +1,7 @@
 # 📰 BẢN TIN SÁNG — AI Workflow Template
 
-> **Mục tiêu**: Sản xuất bản tin sáng hàng ngày chất lượng cao về thị trường tài chính, kinh tế vĩ mô và cổ phiếu Việt Nam — bằng quy trình AI-assisted có thể lặp lại mỗi ngày.
+> **Mục tiêu**: Sản xuất bản tin sáng hàng ngày chất lượng cao về thị trường tài chính, kinh tế vĩ mô và cổ phiếu Việt Nam — bằng quy trình AI-assisted tự động chạy lúc 8:00 AM hàng ngày qua GitHub Actions.
+> **Trạng thái chạy tự động**: [![Auto Morning Newsletter](https://github.com/hieu298/ban-tin-sang/actions/workflows/morning_newsletter.yml/badge.svg)](https://github.com/hieu298/ban-tin-sang/actions/workflows/morning_newsletter.yml)
 
 ---
 
