@@ -75,7 +75,20 @@
     background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
     padding: 20px 24px; margin-top: 20px; line-height: 1.7;
   }
-  .content-box h2 { color: var(--accent); border-bottom: 1px solid var(--hairline); padding-bottom: 6px; font-size: 1.15rem; }
+  .brief-title { color: var(--ink); font-size: 1.3rem; margin-top: 8px; margin-bottom: 16px; }
+  .section-title { color: var(--accent); border-bottom: 1px solid var(--hairline); padding-bottom: 6px; font-size: 1.15rem; margin-top: 24px; }
+  .sub-title { font-size: 1.05rem; color: var(--ink); margin-top: 18px; margin-bottom: 8px; font-weight: 700; }
+  .brief-quote { background: rgba(42, 120, 214, 0.06); border-left: 4px solid var(--accent); padding: 12px 16px; margin: 14px 0; border-radius: 6px; font-size: 0.95rem; }
+  .data-table { width: 100%; border-collapse: collapse; margin: 16px 0; background: var(--page); border-radius: 8px; overflow: hidden; font-size: 0.92rem; }
+  .data-table th, .data-table td { padding: 10px 14px; text-align: left; border-bottom: 1px solid var(--border); }
+  .data-table th { background: rgba(42, 120, 214, 0.12); font-weight: 600; color: var(--ink); }
+  .styled-link { color: var(--accent); text-decoration: none; font-weight: 500; word-break: break-all; }
+  .styled-link:hover { text-decoration: underline; }
+  .styled-hr { border: none; border-top: 1px solid var(--hairline); margin: 24px 0; }
+  .list-item { margin-left: 20px; margin-bottom: 6px; }
+  p { margin: 10px 0; }
+  code { background: rgba(128,128,128,0.15); padding: 2px 6px; border-radius: 4px; font-size: 0.9em; }
+  
   .charts-grid { display: grid; grid-template-columns: 1fr; gap: 16px; margin-top: 20px; }
   @media (min-width: 600px) { .charts-grid { grid-template-columns: repeat(2, 1fr); } }
   .chart-card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 10px; text-align: center; }
@@ -103,29 +116,56 @@
   </div>
 
   <div class="content-box">
-    <h2>📰 Nội dung Bản tin Hôm nay</h2>
-    <div>
-      ---<br>date: 2026-07-30<br>source: vira.org.vn × MSB Research<br>published: 07:51 30/07/2026<br>url: https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-30-07-2026-.html<br>pdf: https://vira.org.vn/upload/news/26/07/30/260730_Ban_tin_kinh_te_tai_chinh_MSB_Research_PRHK.pdf<br>---<br><br># 📊 Bản tin Kinh tế - Tài chính | Thứ Năm 30/07/2026<br><br>> **Nguồn**: [VIRA](https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-30-07-2026-.html) × MSB Research<br>> **Đăng**: 07:51 30/07/2026 &nbsp;|&nbsp; **Lưu**: 15:13 30/07/2026<br><br>> 💡 **Ngày 28/07, Bộ Tài chính và Ngân hàng Thế giới WB thống nhất hoàn thiện danh mục các dự án dự kiến vay vốn giai đoạn 2026-2030, với quy mô khoảng 24 dự án, tổng giá trị vốn vay ước khoảng 9,3 tỷ USD.**<br><br>---<br><br>## 🇻🇳 Tin trong nước<br><br>Thị trường ngoại tệ: Phiên 29/07, NHNN niêm yết tỷ giá trung tâm ở mức 25.306 VND/USD, không thay đổi so với phiên trước đó. Tỷ giá mua giao ngay được niêm yết ở mức 24.091 VND/USD, cao hơn 50 đồng so với tỷ giá sàn. Tỷ giá bán giao ngay được niêm yết ở mức 26.521 VND/USD, thấp hơn 50 đồng so với tỷ giá trần. Trên thị trường LNH, tỷ giá chốt phiên với mức 26.322 VND/USD, giảm trở lại 18 đồng so với phiên 28/07. Tỷ giá trên thị trường tự do giảm 17 đồng ở chiều mua vào và 27 đồng ở chiều bán ra, giao dịch tại 26.291 VND/USD và 26.391 VND/USD.<br><br>### 🏦 Thị trường tiền tệ LNH: Ngày 29/07, lãi suất bình quân LNH VND giảm 0,90 đpt ở kỳ hạn ON trong khi tăng 0,05 – 0,40 đpt ở các kỳ hạn 1W và 2W, không thay đổi ở kỳ hạn 1M so với phiên trước đó, giao dịch tại: ON 1,30%; 1W 4,60%; 2W 5,70% và 1M 6,90%. Lãi suất bình quân LNH USD nhẹ 0,01 đpt ở hầu hết các kỳ hạn ngoại trừ đi ngang ở kỳ hạn 2W; giao dịch tại: ON 3,65%; 1W 3,70%; 2W 3,75%, 1M 3,79%. Lợi suất TPCP trên thị trường thứ cấp giữ nguyên ở các kỳ hạn 3Y và 15Y trong khi tăng nhẹ ở các kỳ hạn còn lại, chốt phiên ở mức:<br><br>3Y 3,64%; 5Y 4,21%; 7Y 4,27%; 10Y 4,41%; 15Y 4,57%.<br><br>### ⚙️ Nghiệp vụ thị trường mở:<br><br>Trên kênh cầm cố, NHNN chào thầu 1.000 tỷ đồng ở kỳ hạn 07 ngày, 2.000 tỷ đồng ở kỳ hạn 42 ngày và 5.000 tỷ đồng ở kỳ hạn 63 ngày, lãi suất đều ở mức 4,5%. Có 4.249,72 tỷ đồng trúng thầu ở cả 3 kỳ hạn. Có 3.966,01 tỷ đồng đáo hạn. NHNN không chào thầu tín phiếu NHNN. Như vậy, NHNN bơm ròng 283,71 tỷ đồng ra thị trường qua nghiệp vụ thị trường mở. Có 144.342,34 tỷ đồng lưu hành trên kênh cầm cố.<br><br>### ▶ Thị trường trái phiếu:<br><br>Phiên 29/07, KBNN đấu thầu thành công 6.600 tỷ đồng/13.000 tỷ đồng TPCP gọi thầu (tỷ lệ trúng thầu đạt 51%). Trong đó, kỳ hạn 5Y trúng thầu 3.550 tỷ đồng/4.000 tỷ đồng gọi thầu và 10Y trúng thầu 3.050 tỷ đồng/7.000 tỷ đồng gọi thầu. Kỳ hạn 3Y, 15Y và 30Y gọi thầu lần lượt 500 tỷ đồng, 1.000 tỷ đồng và 500 tỷ đồng, tuy nhiên không có khối lượng trúng thầu ở cả ba kỳ hạn. Lãi suất trúng thầu ở kỳ hạn 5Y là 4,20% (+0,02 đpt so với phiên đấu thầu trước đó), 10Y là 4,36% (+0,01 đpt).<br><br>### 📈 Thị trường chứng khoán:<br><br>Thị trường chứng khoán phiên hôm qua tiếp tục phục hồi. Kết thúc phiên giao dịch, VN-Index tăng mạnh 24,06 điểm (+1,43%) lên mức 1.704,68 điểm; HNX-Index tăng 2,23 điểm (+0,83%) lên mức 271,68; UPCoM-Index thêm 0,41 điểm (+0,33%) đạt 126,15 điểm. Thanh khoản thị trường vẫn thấp với giá trị giao dịch đạt gần 12.500 tỷ đồng. Khối ngoại bán ròng nhẹ hơn 85 tỷ đồng trên cả 3 sàn.<br>Ngày 28/07, Bộ Tài chính và Ngân hàng Thế giới WB thống nhất hoàn thiện danh mục các dự án dự kiến vay vốn giai đoạn 2026-2030, với quy mô khoảng 24 dự án, tổng giá trị vốn vay ước khoảng 9,3 tỷ USD. Các khoản vay tập trung vào hạ tầng, giao thông, năng lượng, ứng phó biến đổi khí hậu và hỗ trợ ngân sách.<br><br>**Diễn biến Chỉ số Chứng khoán:**<br>| Chỉ số | Điểm số | Thay đổi (+/-) | % Thay đổi |<br>|---|---|---|---|<br>| HNX-Index | 271,68 | +2,23 | +0,83% |<br>| UPCoM-Index | 126,15 | +0,41 | +0,33% |<br><br>## 🌍 Tin quốc tế<br><br>Cục Dự trữ Liên bang Mỹ Fed không điều chỉnh LSCS trong tháng 7. Trong cuộc họp kéo dài 2 ngày 28-29/07, Ủy ban Thị trường Mở Liên bang (FOMC, thuộc Fed), nhận định hoạt động kinh tế đang tăng trưởng với tốc độ vững chắc mặc dù vẫn tồn tại mức độ bất định cao, một phần do xung đột tại Trung Đông. Tăng trưởng năng suất lao động và đầu tư vốn vẫn mạnh mẽ. Số lượng việc làm mới tiếp tục tăng trong khi tỷ lệ thất nghiệp hầu như không đổi. Lạm phát vẫn ở mức cao so với mục tiêu 2%, một phần phản ánh các cú sốc về nguồn cung trong một số lĩnh vực, bao gồm cả năng lượng. Tại cuộc họp này, FOMC quyết định duy trì LSCS ở mức 3,5% - 3,75% nhằm hỗ trợ đạt được mục tiêu lạm phát và toàn dụng lao động trong dài hạn. Tuy nhiên, vẫn có 3 trong số 12 thành viên FOMC cho rằng cần nâng LSCS 25 đcb là Beth M. Hammack, Neel Kashkari và Lorie K. Logan. Phát biểu tại họp báo sau cuộc họp của Fed, Chủ tịch Kevin Warsh cho biết tình hình lạm phát trên mức mục tiêu đã kéo dài suốt hơn 5 năm qua, và không thể giải quyết ngay trong ngắn hạn. Fed sẽ không dao động trong việc đưa lạm phát trở lại mục tiêu 2%. Mặc dù vậy, ông cũng nêu rằng lợi suất trái phiếu đã tăng đáng kể kể từ cuộc họp chính sách tiền tệ gần nhất của Fed, phản ánh việc các nhà đầu tư đã định giá khả năng lãi suất sẽ tăng. Ông hoan nghênh diễn biến này, nhưng cũng nhấn mạnh rằng điều đó không có nghĩa Fed buộc phải xác nhận kỳ vọng của thị trường bằng hành động tăng lãi suất. Sau cuộc họp, thị trường dự báo có 43% (tăng so với 24% trước cuộc họp) khả năng Fed sẽ giữ LSCS đi ngang trong cuộc họp tháng 9, và có 57% (trước họp là 56%) khả năng tăng LSCS 25 đcb. Xác suất Fed tăng mạnh LSCS 50 trong tháng 9 đã hoàn toàn biến mất (trước họp là 20%).<br>Văn phòng Thống kê Úc ABS công bố chỉ số giá tiêu dùng CPI toàn phần tại nước này giảm 0,1% m/m trong tháng 6, nối tiếp đà giảm 0,7% của tháng trước đó và trái với dự báo tăng 0,2%. So với cùng kỳ năm 2025, CPI Úc tăng 3,8% y/y, trái với dự báo đi ngang ở mức 4,0% của các chuyên gia. ABS cho biết lạm phát y/y chủ yếu đến từ chi phí nhà ở với mức tăng 6,8%, trong đó có giá điện tăng cao sau khi các khoản trợ cấp của chính phủ hết hạn và chi phí xây dựng nhà mới cũng tăng lên. Mặc dù vậy, giá nhiên liệu ô tô giảm rõ rệt nhờ giá dầu rơi mạnh và chính sách giảm thuế nhiên liệu đã giúp áp lực lạm phát chung hạ nhiệt.<br>Bản tin Kinh tế - Tài chính ngày 30/07/2026<br><div<br><br>---<br><br>## 📎 Tải PDF đầy đủ<br><br>[260730_Ban_tin_kinh_te_tai_chinh_MSB_Research_PRHK.pdf](https://vira.org.vn/upload/news/26/07/30/260730_Ban_tin_kinh_te_tai_chinh_MSB_Research_PRHK.pdf) (Xem bảng biểu và biểu đồ)<br><br>---<br><br>*Thu thập bởi `collect_vira_pdf.py` | 15:13 30/07/2026*
+    <h3 class="brief-title">📊 Bản tin Kinh tế - Tài chính | Thứ Năm 30/07/2026</h3>
+<blockquote class="brief-quote"><strong>Nguồn</strong>: <a href="https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-30-07-2026-.html" target="_blank" rel="noopener" class="styled-link">VIRA</a> × MSB Research<br><strong>Đăng</strong>: 07:51 30/07/2026 &nbsp;|&nbsp; <strong>Lưu</strong>: 17:30 30/07/2026</blockquote>
+<blockquote class="brief-quote">💡 <strong>Ngày 28/07, Bộ Tài chính và Ngân hàng Thế giới WB thống nhất hoàn thiện danh mục các dự án dự kiến vay vốn giai đoạn 2026-2030, với quy mô khoảng 24 dự án, tổng giá trị vốn vay ước khoảng 9,3 tỷ USD.</strong></blockquote>
+<h3 class="section-title">📎 Tải PDF đầy đủ</h3>
+<p><a href="https://vira.org.vn/upload/news/26/07/30/260730_Ban_tin_kinh_te_tai_chinh_MSB_Research_PRHK.pdf" target="_blank" rel="noopener" class="styled-link">260730_Ban_tin_kinh_te_tai_chinh_MSB_Research_PRHK.pdf</a> (Xem bảng biểu và biểu đồ)</p>
+<hr class="styled-hr">
+<p><em>Thu thập bởi <code>collect_vira_pdf.py</code> | 17:30 30/07/2026</em></p>
+  </div>
+
+  <h2 class="section-title">🏢 Phân tích Nhóm Ngành (Dữ liệu MASVN Mastrade)</h2>
+  <div class="charts-grid">
+    <div class="chart-card">
+      <img src="ban-tin-sang/output/charts/market_contrib.png?v=1785432811" onerror="if(!this.dataset.fallback){this.dataset.fallback=true;this.src='output/charts/market_contrib.png?v=1785432811';}" alt="Phân hóa Nhóm Ngành MASVN">
+      <div style="font-size:0.85rem; margin-top:6px; font-weight: 500;">Biến động &amp; Đóng góp Nhóm ngành (MASVN)</div>
+    </div>
+    <div class="chart-card">
+      <img src="ban-tin-sang/output/charts/sector_intraday.png?v=1785432811" onerror="if(!this.dataset.fallback){this.dataset.fallback=true;this.src='output/charts/sector_intraday.png?v=1785432811';}" alt="Diễn biến Ngành MASVN">
+      <div style="font-size:0.85rem; margin-top:6px; font-weight: 500;">Diễn biến Nhóm ngành In-day (MASVN)</div>
     </div>
   </div>
 
-  <h2>📊 Biểu đồ Thị trường Tự động</h2>
+  <h2 class="section-title">📊 Biểu đồ Thị trường &amp; Dòng tiền</h2>
   <div class="charts-grid">
     <div class="chart-card">
-      <img src="output/charts/vnindex_intraday.png" alt="VNIndex Intraday" onerror="this.style.display='none'">
-      <div style="font-size:0.85rem; margin-top:6px;">Diễn biến VN-Index In-day</div>
+      <img src="ban-tin-sang/output/charts/vnindex_intraday.png?v=1785432811" onerror="if(!this.dataset.fallback){this.dataset.fallback=true;this.src='output/charts/vnindex_intraday.png?v=1785432811';}" alt="VNIndex Intraday">
+      <div style="font-size:0.85rem; margin-top:6px; font-weight: 500;">Diễn biến VN-Index In-day</div>
     </div>
     <div class="chart-card">
-      <img src="output/charts/market_liquidity.png" alt="Thanh khoản" onerror="this.style.display='none'">
-      <div style="font-size:0.85rem; margin-top:6px;">Thanh khoản Thị trường</div>
+      <img src="ban-tin-sang/output/charts/market_liquidity.png?v=1785432811" onerror="if(!this.dataset.fallback){this.dataset.fallback=true;this.src='output/charts/market_liquidity.png?v=1785432811';}" alt="Thanh khoản">
+      <div style="font-size:0.85rem; margin-top:6px; font-weight: 500;">Thanh khoản Thị trường</div>
     </div>
     <div class="chart-card">
-      <img src="output/charts/institutional_flow.png" alt="Dòng tiền Tổ chức" onerror="this.style.display='none'">
-      <div style="font-size:0.85rem; margin-top:6px;">Dòng tiền Khối ngoại &amp; Tự doanh</div>
+      <img src="ban-tin-sang/output/charts/institutional_flow.png?v=1785432811" onerror="if(!this.dataset.fallback){this.dataset.fallback=true;this.src='output/charts/institutional_flow.png?v=1785432811';}" alt="Dòng tiền Tổ chức">
+      <div style="font-size:0.85rem; margin-top:6px; font-weight: 500;">Dòng tiền Khối ngoại &amp; Tự doanh</div>
     </div>
     <div class="chart-card">
-      <img src="output/charts/market_breadth.png" alt="Độ rộng Thị trường" onerror="this.style.display='none'">
-      <div style="font-size:0.85rem; margin-top:6px;">Độ rộng Thị trường</div>
+      <img src="ban-tin-sang/output/charts/market_breadth.png?v=1785432811" onerror="if(!this.dataset.fallback){this.dataset.fallback=true;this.src='output/charts/market_breadth.png?v=1785432811';}" alt="Độ rộng Thị trường">
+      <div style="font-size:0.85rem; margin-top:6px; font-weight: 500;">Độ rộng Thị trường</div>
+    </div>
+  </div>
+
+  <h2 class="section-title">🌍 Vĩ mô &amp; Thị trường Quốc tế</h2>
+  <div class="charts-grid">
+    <div class="chart-card">
+      <img src="ban-tin-sang/output/charts/global_markets.png?v=1785432811" onerror="if(!this.dataset.fallback){this.dataset.fallback=true;this.src='output/charts/global_markets.png?v=1785432811';}" alt="Thị trường Quốc tế">
+      <div style="font-size:0.85rem; margin-top:6px; font-weight: 500;">Thị trường Quốc tế &amp; Hàng hóa</div>
+    </div>
+    <div class="chart-card">
+      <img src="ban-tin-sang/output/charts/market_valuation.png?v=1785432811" onerror="if(!this.dataset.fallback){this.dataset.fallback=true;this.src='output/charts/market_valuation.png?v=1785432811';}" alt="Định giá Thị trường">
+      <div style="font-size:0.85rem; margin-top:6px; font-weight: 500;">Định giá P/E Thị trường</div>
     </div>
   </div>
 

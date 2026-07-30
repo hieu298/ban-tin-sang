@@ -1,22 +1,22 @@
 ---
 date: 2026-07-30
 source: vietstock.vn/rss
-generated: 2026-07-30T15:13:58
+generated: 2026-07-30T17:32:20
 ---
 
 # 📊 Tin Tức Vietstock — 2026-07-30
 
-> **Nguồn**: [vietstock.vn](https://vietstock.vn) &nbsp;|&nbsp; **Thu thập**: 2026-07-30T15:13:58
+> **Nguồn**: [vietstock.vn](https://vietstock.vn) &nbsp;|&nbsp; **Thu thập**: 2026-07-30T17:32:20
 
 ---
 
 ## Nhận định thị trường
-• **14:07**: [Nhịp đập Thị trường 30/07: Nghỉ trưa tại 1,735 điểm, thanh khoản sôi động](http://vietstock.vn/2026/07/nhip-dap-thi-truong-3007-nghi-trua-tai-1735-diem-thanh-khoan-soi-dong-1636-1473291.htm)
+• **20:00**: [Thị trường chứng quyền ngày 31/07/2026: Khởi sắc cùng thị trường cơ sở](http://vietstock.vn/2026/07/thi-truong-chung-quyen-ngay-31072026-khoi-sac-cung-thi-truong-co-so-1636-1473621.htm)
+• **19:30**: [Chứng khoán phái sinh ngày 31/07/2026: Triển vọng ngắn hạn khởi sắc](http://vietstock.vn/2026/07/chung-khoan-phai-sinh-ngay-31072026-trien-vong-ngan-han-khoi-sac-1636-1473608.htm)
+• **17:59**: [Vietstock Daily 31/07/2026: Tiếp đà phục hồi](http://vietstock.vn/2026/07/vietstock-daily-31072026-tiep-da-phuc-hoi-1636-1473758.htm)
+• **16:47**: [Nhịp đập Thị trường 30/07: Kết phiên thăng hoa, khối ngoại mua ròng trở lại](http://vietstock.vn/2026/07/nhip-dap-thi-truong-3007-ket-phien-thang-hoa-khoi-ngoai-mua-rong-tro-lai-1636-1473291.htm)
 • **20:00**: [Thị trường chứng quyền ngày 30/07/2026: Khối ngoại liên tục bán ròng](http://vietstock.vn/2026/07/thi-truong-chung-quyen-ngay-30072026-khoi-ngoai-lien-tuc-ban-rong-1636-1472944.htm)
 • **19:30**: [Chứng khoán phái sinh ngày 30/07/2026: Nhịp phục hồi ngắn hạn vẫn hiện hữu?](http://vietstock.vn/2026/07/chung-khoan-phai-sinh-ngay-30072026-nhip-phuc-hoi-ngan-han-van-hien-huu-1636-1472902.htm)
-• **18:27**: [Vietstock Daily 30/07/2026: Bước tiến thận trọng](http://vietstock.vn/2026/07/vietstock-daily-30072026-buoc-tien-than-trong-1636-1472973.htm)
-• **17:12**: [Nhịp đập Thị trường 29/07: VN-Index tiếp tục phục hồi, khối ngoại giao dịch trái chiều](http://vietstock.vn/2026/07/nhip-dap-thi-truong-2907-vn-index-tiep-tuc-phuc-hoi-khoi-ngoai-giao-dich-trai-chieu-1636-1472617.htm)
-• **20:00**: [Thị trường chứng quyền ngày 29/07/2026: Thị trường diễn biến phân hóa](http://vietstock.vn/2026/07/thi-truong-chung-quyen-ngay-29072026-thi-truong-dien-bien-phan-hoa-1636-1472237.htm)
 
 ---
 

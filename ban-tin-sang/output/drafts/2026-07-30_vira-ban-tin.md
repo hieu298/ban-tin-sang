@@ -9,7 +9,7 @@ pdf: https://vira.org.vn/upload/news/26/07/30/260730_Ban_tin_kinh_te_tai_chinh_M
 # 📊 Bản tin Kinh tế - Tài chính | Thứ Năm 30/07/2026
 
 > **Nguồn**: [VIRA](https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-30-07-2026-.html) × MSB Research
-> **Đăng**: 07:51 30/07/2026 &nbsp;|&nbsp; **Lưu**: 15:13 30/07/2026
+> **Đăng**: 07:51 30/07/2026 &nbsp;|&nbsp; **Lưu**: 17:30 30/07/2026
 
 > 💡 **Ngày 28/07, Bộ Tài chính và Ngân hàng Thế giới WB thống nhất hoàn thiện danh mục các dự án dự kiến vay vốn giai đoạn 2026-2030, với quy mô khoảng 24 dự án, tổng giá trị vốn vay ước khoảng 9,3 tỷ USD.**
 
@@ -57,4 +57,4 @@ Bản tin Kinh tế - Tài chính ngày 30/07/2026
 
 ---
 
-*Thu thập bởi `collect_vira_pdf.py` | 15:13 30/07/2026*
+*Thu thập bởi `collect_vira_pdf.py` | 17:30 30/07/2026*
