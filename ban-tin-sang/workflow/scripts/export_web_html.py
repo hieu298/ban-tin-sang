@@ -121,6 +121,7 @@ def generate_web_html(date_str=None):
             
     parsed_html_content = parse_markdown_to_html(content_text)
     today_formatted = datetime.now().strftime("%d/%m/%Y")
+    version = int(datetime.now().timestamp())
     
     html_template = f"""<!doctype html>
 <html lang="vi">
@@ -246,11 +247,11 @@ def generate_web_html(date_str=None):
   <h2 class="section-title">🏢 Phân tích Nhóm Ngành (Dữ liệu MASVN Mastrade)</h2>
   <div class="charts-grid">
     <div class="chart-card">
-      <img src="ban-tin-sang/output/charts/market_contrib.png" onerror="if(!this.dataset.fallback){{this.dataset.fallback=true;this.src='output/charts/market_contrib.png';}}" alt="Phân hóa Nhóm Ngành MASVN">
+      <img src="ban-tin-sang/output/charts/market_contrib.png?v={version}" onerror="if(!this.dataset.fallback){{this.dataset.fallback=true;this.src='output/charts/market_contrib.png?v={version}';}}" alt="Phân hóa Nhóm Ngành MASVN">
       <div style="font-size:0.85rem; margin-top:6px; font-weight: 500;">Biến động &amp; Đóng góp Nhóm ngành (MASVN)</div>
     </div>
     <div class="chart-card">
-      <img src="ban-tin-sang/output/charts/sector_intraday.png" onerror="if(!this.dataset.fallback){{this.dataset.fallback=true;this.src='output/charts/sector_intraday.png';}}" alt="Diễn biến Ngành MASVN">
+      <img src="ban-tin-sang/output/charts/sector_intraday.png?v={version}" onerror="if(!this.dataset.fallback){{this.dataset.fallback=true;this.src='output/charts/sector_intraday.png?v={version}';}}" alt="Diễn biến Ngành MASVN">
       <div style="font-size:0.85rem; margin-top:6px; font-weight: 500;">Diễn biến Nhóm ngành In-day (MASVN)</div>
     </div>
   </div>
@@ -258,19 +259,19 @@ def generate_web_html(date_str=None):
   <h2 class="section-title">📊 Biểu đồ Thị trường &amp; Dòng tiền</h2>
   <div class="charts-grid">
     <div class="chart-card">
-      <img src="ban-tin-sang/output/charts/vnindex_intraday.png" onerror="if(!this.dataset.fallback){{this.dataset.fallback=true;this.src='output/charts/vnindex_intraday.png';}}" alt="VNIndex Intraday">
+      <img src="ban-tin-sang/output/charts/vnindex_intraday.png?v={version}" onerror="if(!this.dataset.fallback){{this.dataset.fallback=true;this.src='output/charts/vnindex_intraday.png?v={version}';}}" alt="VNIndex Intraday">
       <div style="font-size:0.85rem; margin-top:6px; font-weight: 500;">Diễn biến VN-Index In-day</div>
     </div>
     <div class="chart-card">
-      <img src="ban-tin-sang/output/charts/market_liquidity.png" onerror="if(!this.dataset.fallback){{this.dataset.fallback=true;this.src='output/charts/market_liquidity.png';}}" alt="Thanh khoản">
+      <img src="ban-tin-sang/output/charts/market_liquidity.png?v={version}" onerror="if(!this.dataset.fallback){{this.dataset.fallback=true;this.src='output/charts/market_liquidity.png?v={version}';}}" alt="Thanh khoản">
       <div style="font-size:0.85rem; margin-top:6px; font-weight: 500;">Thanh khoản Thị trường</div>
     </div>
     <div class="chart-card">
-      <img src="ban-tin-sang/output/charts/institutional_flow.png" onerror="if(!this.dataset.fallback){{this.dataset.fallback=true;this.src='output/charts/institutional_flow.png';}}" alt="Dòng tiền Tổ chức">
+      <img src="ban-tin-sang/output/charts/institutional_flow.png?v={version}" onerror="if(!this.dataset.fallback){{this.dataset.fallback=true;this.src='output/charts/institutional_flow.png?v={version}';}}" alt="Dòng tiền Tổ chức">
       <div style="font-size:0.85rem; margin-top:6px; font-weight: 500;">Dòng tiền Khối ngoại &amp; Tự doanh</div>
     </div>
     <div class="chart-card">
-      <img src="ban-tin-sang/output/charts/market_breadth.png" onerror="if(!this.dataset.fallback){{this.dataset.fallback=true;this.src='output/charts/market_breadth.png';}}" alt="Độ rộng Thị trường">
+      <img src="ban-tin-sang/output/charts/market_breadth.png?v={version}" onerror="if(!this.dataset.fallback){{this.dataset.fallback=true;this.src='output/charts/market_breadth.png?v={version}';}}" alt="Độ rộng Thị trường">
       <div style="font-size:0.85rem; margin-top:6px; font-weight: 500;">Độ rộng Thị trường</div>
     </div>
   </div>
@@ -278,11 +279,11 @@ def generate_web_html(date_str=None):
   <h2 class="section-title">🌍 Vĩ mô &amp; Thị trường Quốc tế</h2>
   <div class="charts-grid">
     <div class="chart-card">
-      <img src="ban-tin-sang/output/charts/global_markets.png" onerror="if(!this.dataset.fallback){{this.dataset.fallback=true;this.src='output/charts/global_markets.png';}}" alt="Thị trường Quốc tế">
+      <img src="ban-tin-sang/output/charts/global_markets.png?v={version}" onerror="if(!this.dataset.fallback){{this.dataset.fallback=true;this.src='output/charts/global_markets.png?v={version}';}}" alt="Thị trường Quốc tế">
       <div style="font-size:0.85rem; margin-top:6px; font-weight: 500;">Thị trường Quốc tế &amp; Hàng hóa</div>
     </div>
     <div class="chart-card">
-      <img src="ban-tin-sang/output/charts/market_valuation.png" onerror="if(!this.dataset.fallback){{this.dataset.fallback=true;this.src='output/charts/market_valuation.png';}}" alt="Định giá Thị trường">
+      <img src="ban-tin-sang/output/charts/market_valuation.png?v={version}" onerror="if(!this.dataset.fallback){{this.dataset.fallback=true;this.src='output/charts/market_valuation.png?v={version}';}}" alt="Định giá Thị trường">
       <div style="font-size:0.85rem; margin-top:6px; font-weight: 500;">Định giá P/E Thị trường</div>
     </div>
   </div>
