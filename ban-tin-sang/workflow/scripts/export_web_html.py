@@ -243,7 +243,19 @@ def generate_web_html(date_str=None):
     {parsed_html_content}
   </div>
 
-  <h2 class="section-title">📊 Biểu đồ Thị trường Tự động</h2>
+  <h2 class="section-title">🏢 Phân tích Nhóm Ngành (Dữ liệu MASVN Mastrade)</h2>
+  <div class="charts-grid">
+    <div class="chart-card">
+      <img src="ban-tin-sang/output/charts/market_contrib.png" onerror="if(!this.dataset.fallback){{this.dataset.fallback=true;this.src='output/charts/market_contrib.png';}}" alt="Phân hóa Nhóm Ngành MASVN">
+      <div style="font-size:0.85rem; margin-top:6px; font-weight: 500;">Biến động &amp; Đóng góp Nhóm ngành (MASVN)</div>
+    </div>
+    <div class="chart-card">
+      <img src="ban-tin-sang/output/charts/sector_intraday.png" onerror="if(!this.dataset.fallback){{this.dataset.fallback=true;this.src='output/charts/sector_intraday.png';}}" alt="Diễn biến Ngành MASVN">
+      <div style="font-size:0.85rem; margin-top:6px; font-weight: 500;">Diễn biến Nhóm ngành In-day (MASVN)</div>
+    </div>
+  </div>
+
+  <h2 class="section-title">📊 Biểu đồ Thị trường &amp; Dòng tiền</h2>
   <div class="charts-grid">
     <div class="chart-card">
       <img src="ban-tin-sang/output/charts/vnindex_intraday.png" onerror="if(!this.dataset.fallback){{this.dataset.fallback=true;this.src='output/charts/vnindex_intraday.png';}}" alt="VNIndex Intraday">
@@ -260,6 +272,18 @@ def generate_web_html(date_str=None):
     <div class="chart-card">
       <img src="ban-tin-sang/output/charts/market_breadth.png" onerror="if(!this.dataset.fallback){{this.dataset.fallback=true;this.src='output/charts/market_breadth.png';}}" alt="Độ rộng Thị trường">
       <div style="font-size:0.85rem; margin-top:6px; font-weight: 500;">Độ rộng Thị trường</div>
+    </div>
+  </div>
+
+  <h2 class="section-title">🌍 Vĩ mô &amp; Thị trường Quốc tế</h2>
+  <div class="charts-grid">
+    <div class="chart-card">
+      <img src="ban-tin-sang/output/charts/global_markets.png" onerror="if(!this.dataset.fallback){{this.dataset.fallback=true;this.src='output/charts/global_markets.png';}}" alt="Thị trường Quốc tế">
+      <div style="font-size:0.85rem; margin-top:6px; font-weight: 500;">Thị trường Quốc tế &amp; Hàng hóa</div>
+    </div>
+    <div class="chart-card">
+      <img src="ban-tin-sang/output/charts/market_valuation.png" onerror="if(!this.dataset.fallback){{this.dataset.fallback=true;this.src='output/charts/market_valuation.png';}}" alt="Định giá Thị trường">
+      <div style="font-size:0.85rem; margin-top:6px; font-weight: 500;">Định giá P/E Thị trường</div>
     </div>
   </div>
 
