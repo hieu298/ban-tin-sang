@@ -41,11 +41,11 @@ jobs:
             cd ban-tin-sang
           fi
           python workflow/scripts/export_web_html.py || true
-          python workflow/scripts/collect_vira_pdf.py --date $TODAY || true
-          python workflow/scripts/collect_hsx_news.py --date $TODAY || true
-          python workflow/scripts/collect_vietstock_rss.py --date $TODAY || true
-          python workflow/scripts/draw_charts.py || true
-          python workflow/scripts/export_vira_pdf.py --date $TODAY || true
+          timeout 30 python workflow/scripts/collect_vira_pdf.py --date $TODAY || true
+          timeout 30 python workflow/scripts/collect_hsx_news.py --date $TODAY || true
+          timeout 30 python workflow/scripts/collect_vietstock_rss.py --date $TODAY || true
+          timeout 30 python workflow/scripts/draw_charts.py || true
+          timeout 30 python workflow/scripts/export_vira_pdf.py --date $TODAY || true
           python workflow/scripts/export_web_html.py || true
           cp index.html ../index.html 2>/dev/null || true
 
