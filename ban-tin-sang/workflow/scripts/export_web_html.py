@@ -7,6 +7,103 @@ if hasattr(sys.stdout, 'reconfigure'):
 from pathlib import Path
 from datetime import datetime, timedelta
 
+def parse_markdown_to_html(md_text):
+    if not md_text:
+        return "<p>Bản tin đang được cập nhật tự động...</p>"
+        
+    # Remove YAML frontmatter
+    md_text = re.sub(r'^---[\s\S]*?---\n', '', md_text, flags=re.MULTILINE)
+    
+    lines = md_text.split('\n')
+    html_lines = []
+    quote_lines = []
+    in_table = False
+    table_lines = []
+    
+    def render_inline(text):
+        # Links [text](url)
+        text = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', r'<a href="\2" target="_blank" rel="noopener" class="styled-link">\1</a>', text)
+        # Bold **text**
+        text = re.sub(r'\*\*([^*]+)\*\*', r'<strong>\1</strong>', text)
+        # Italic *text*
+        text = re.sub(r'\*([^*]+)\*', r'<em>\1</em>', text)
+        # Code `text`
+        text = re.sub(r'`([^`]+)`', r'<code>\1</code>', text)
+        return text
+
+    def process_table(lines):
+        if not lines:
+            return ""
+        table_html = ['<table class="data-table">']
+        headers = [c.strip() for c in lines[0].split('|')[1:-1]]
+        table_html.append('<thead><tr>' + ''.join(f'<th>{render_inline(h)}</th>' for h in headers) + '</tr></thead>')
+        table_html.append('<tbody>')
+        for row in lines:
+            if '|' in row and not ('---' in row or ':---' in row):
+                cols = [c.strip() for c in row.split('|')[1:-1]]
+                if cols != headers:
+                    table_html.append('<tr>' + ''.join(f'<td>{render_inline(c)}</td>' for c in cols) + '</tr>')
+        table_html.append('</tbody></table>')
+        return '\n'.join(table_html)
+
+    for line in lines:
+        stripped = line.strip()
+        
+        # Check Table
+        if stripped.startswith('|') and stripped.endswith('|'):
+            if not in_table:
+                in_table = True
+                table_lines = []
+            table_lines.append(stripped)
+            continue
+        elif in_table:
+            in_table = False
+            html_lines.append(process_table(table_lines))
+            table_lines = []
+            
+        # Check Quote
+        if stripped.startswith('>'):
+            quote_content = stripped.lstrip('> ').strip()
+            if quote_content:
+                quote_lines.append(render_inline(quote_content))
+            continue
+        elif quote_lines:
+            html_lines.append(f'<blockquote class="brief-quote">{"<br>".join(quote_lines)}</blockquote>')
+            quote_lines = []
+            
+        # Horizontal Rule
+        if stripped in ('---', '***', '___'):
+            html_lines.append('<hr class="styled-hr">')
+            continue
+            
+        # Headers
+        if stripped.startswith('# '):
+            html_lines.append(f'<h3 class="brief-title">{render_inline(stripped[2:])}</h3>')
+            continue
+        elif stripped.startswith('## '):
+            html_lines.append(f'<h3 class="section-title">{render_inline(stripped[3:])}</h3>')
+            continue
+        elif stripped.startswith('### '):
+            html_lines.append(f'<h4 class="sub-title">{render_inline(stripped[4:])}</h4>')
+            continue
+            
+        # Lists
+        if stripped.startswith('- ') or stripped.startswith('* '):
+            html_lines.append(f'<li class="list-item">{render_inline(stripped[2:])}</li>')
+            continue
+            
+        # Regular paragraph line
+        if stripped:
+            html_lines.append(f'<p>{render_inline(stripped)}</p>')
+            
+    if quote_lines:
+        html_lines.append(f'<blockquote class="brief-quote">{"<br>".join(quote_lines)}</blockquote>')
+    if in_table and table_lines:
+        html_lines.append(process_table(table_lines))
+        
+    return '\n'.join(html_lines)
+
+
 def generate_web_html(date_str=None):
     if not date_str:
         date_str = datetime.now().strftime("%Y-%m-%d")
@@ -22,6 +119,7 @@ def generate_web_html(date_str=None):
         with open(draft_path, "r", encoding="utf-8") as f:
             content_text = f.read()
             
+    parsed_html_content = parse_markdown_to_html(content_text)
     today_formatted = datetime.now().strftime("%d/%m/%Y")
     
     html_template = f"""<!doctype html>
@@ -101,7 +199,20 @@ def generate_web_html(date_str=None):
     background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
     padding: 20px 24px; margin-top: 20px; line-height: 1.7;
   }}
-  .content-box h2 {{ color: var(--accent); border-bottom: 1px solid var(--hairline); padding-bottom: 6px; font-size: 1.15rem; }}
+  .brief-title {{ color: var(--ink); font-size: 1.3rem; margin-top: 8px; margin-bottom: 16px; }}
+  .section-title {{ color: var(--accent); border-bottom: 1px solid var(--hairline); padding-bottom: 6px; font-size: 1.15rem; margin-top: 24px; }}
+  .sub-title {{ font-size: 1.05rem; color: var(--ink); margin-top: 18px; margin-bottom: 8px; font-weight: 700; }}
+  .brief-quote {{ background: rgba(42, 120, 214, 0.06); border-left: 4px solid var(--accent); padding: 12px 16px; margin: 14px 0; border-radius: 6px; font-size: 0.95rem; }}
+  .data-table {{ width: 100%; border-collapse: collapse; margin: 16px 0; background: var(--page); border-radius: 8px; overflow: hidden; font-size: 0.92rem; }}
+  .data-table th, .data-table td {{ padding: 10px 14px; text-align: left; border-bottom: 1px solid var(--border); }}
+  .data-table th {{ background: rgba(42, 120, 214, 0.12); font-weight: 600; color: var(--ink); }}
+  .styled-link {{ color: var(--accent); text-decoration: none; font-weight: 500; word-break: break-all; }}
+  .styled-link:hover {{ text-decoration: underline; }}
+  .styled-hr {{ border: none; border-top: 1px solid var(--hairline); margin: 24px 0; }}
+  .list-item {{ margin-left: 20px; margin-bottom: 6px; }}
+  p {{ margin: 10px 0; }}
+  code {{ background: rgba(128,128,128,0.15); padding: 2px 6px; border-radius: 4px; font-size: 0.9em; }}
+  
   .charts-grid {{ display: grid; grid-template-columns: 1fr; gap: 16px; margin-top: 20px; }}
   @media (min-width: 600px) {{ .charts-grid {{ grid-template-columns: repeat(2, 1fr); }} }}
   .chart-card {{ background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 10px; text-align: center; }}
@@ -129,13 +240,10 @@ def generate_web_html(date_str=None):
   </div>
 
   <div class="content-box">
-    <h2>📰 Nội dung Bản tin Hôm nay</h2>
-    <div>
-      {content_text.replace('\n', '<br>') if content_text else 'Bản tin đang được cập nhật tự động...'}
-    </div>
+    {parsed_html_content}
   </div>
 
-  <h2>📊 Biểu đồ Thị trường Tự động</h2>
+  <h2 class="section-title">📊 Biểu đồ Thị trường Tự động</h2>
   <div class="charts-grid">
     <div class="chart-card">
       <img src="output/charts/vnindex_intraday.png" alt="VNIndex Intraday" onerror="this.style.display='none'">
@@ -173,7 +281,7 @@ def generate_web_html(date_str=None):
 """
     with open(output_html_path, "w", encoding="utf-8") as f:
         f.write(html_template)
-    print(f"✅ Đã xuất trang HTML web tại: {output_html_path}")
+    print(f"✅ Đã xuất trang HTML web định dạng chuẩn tại: {output_html_path}")
 
 if __name__ == "__main__":
     generate_web_html()
