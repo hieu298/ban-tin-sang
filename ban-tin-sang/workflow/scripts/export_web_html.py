@@ -110,18 +110,39 @@ def generate_web_html(date_str=None):
         
     script_dir = Path(__file__).parent.resolve()
     base_dir = script_dir.parent.parent
-    draft_path = base_dir / "output" / "drafts" / f"{date_str}_vira-ban-tin.md"
+    drafts_dir = base_dir / "output" / "drafts"
     output_html_path = base_dir / "index.html"
     
-    # Read draft text if available
-    content_text = ""
-    if draft_path.exists():
-        with open(draft_path, "r", encoding="utf-8") as f:
-            content_text = f.read()
+    # Read draft texts from VIRA, HOSE, and Vietstock RSS if available
+    draft_parts = []
+    
+    vira_path = drafts_dir / f"{date_str}_vira-ban-tin.md"
+    if vira_path.exists():
+        with open(vira_path, "r", encoding="utf-8") as f:
+            draft_parts.append(f.read())
             
+    hsx_path = drafts_dir / f"{date_str}_hsx-news.md"
+    if hsx_path.exists():
+        with open(hsx_path, "r", encoding="utf-8") as f:
+            draft_parts.append(f.read())
+            
+    vietstock_path = drafts_dir / f"{date_str}_vietstock.md"
+    if vietstock_path.exists():
+        with open(vietstock_path, "r", encoding="utf-8") as f:
+            draft_parts.append(f.read())
+
+    # Fallback to previous day's VIRA draft if today's VIRA draft is missing but we have previous
+    if not draft_parts:
+        all_vira_drafts = sorted(list(drafts_dir.glob("*_vira-ban-tin.md")), reverse=True)
+        if all_vira_drafts:
+            with open(all_vira_drafts[0], "r", encoding="utf-8") as f:
+                draft_parts.append(f.read())
+
+    content_text = "\n\n---\n\n".join(draft_parts)
     parsed_html_content = parse_markdown_to_html(content_text)
     today_formatted = datetime.now().strftime("%d/%m/%Y")
     version = int(datetime.now().timestamp())
+
     
     html_template = f"""<!doctype html>
 <html lang="vi">

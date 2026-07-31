@@ -1,8 +1,15 @@
 import argparse
+import io
+import sys
 import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
 from datetime import datetime
+
+if sys.platform == "win32":
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
+    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
+
 
 FEEDS = [
     {
