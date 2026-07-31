@@ -1,12 +1,12 @@
 ---
 date: 2026-07-31
 source: vietstock.vn/rss
-generated: 2026-07-31T02:05:49
+generated: 2026-07-31T04:20:03
 ---
 
 # 📊 Tin Tức Vietstock — 2026-07-31
 
-> **Nguồn**: [vietstock.vn](https://vietstock.vn) &nbsp;|&nbsp; **Thu thập**: 2026-07-31T02:05:49
+> **Nguồn**: [vietstock.vn](https://vietstock.vn) &nbsp;|&nbsp; **Thu thập**: 2026-07-31T04:20:03
 
 ---
 
@@ -31,11 +31,11 @@ generated: 2026-07-31T02:05:49
 ---
 
 ## Chứng khoán thế giới
+• **10:30**: [Chứng khoán Hàn Quốc quay đầu tăng 13%, Samsung và SK hynix vọt hơn 20%](http://vietstock.vn/2026/07/chung-khoan-han-quoc-quay-dau-tang-13-samsung-va-sk-hynix-vot-hon-20-773-1474199.htm)
+• **08:33**: [Dow Jones tăng hơn 600 điểm sau báo cáo bùng nổ của Microsoft, nhóm AI lấy lại vị thế](http://vietstock.vn/2026/07/dow-jones-tang-hon-600-diem-sau-bao-cao-bung-no-cua-microsoft-nhom-ai-lay-lai-vi-the-773-1474078.htm)
 • **08:43**: [Dow Jones mất hơn 1,150 điểm vì lo ngại Fed chậm chân trong cuộc chiến chống lạm phát](http://vietstock.vn/2026/07/dow-jones-mat-hon-1150-diem-vi-lo-ngai-fed-cham-chan-trong-cuoc-chien-chong-lam-phat-773-1473210.htm)
 • **23:32**: [Từng được định giá 18 tỷ USD, biểu tượng ngành kim cương giờ được rao bán với giá 1 tỷ USD](http://vietstock.vn/2026/07/tung-duoc-dinh-gia-18-ty-usd-bieu-tuong-nganh-kim-cuong-gio-duoc-rao-ban-voi-gia-1-ty-usd-773-1473193.htm)
 • **22:57**: [Hàn Quốc họp khẩn sau thị trường chứng khoán "bốc hơi" hơn 40%](http://vietstock.vn/2026/07/han-quoc-hop-khan-sau-thi-truong-chung-khoan-boc-hoi-hon-40-773-1473187.htm)
 • **22:48**: [Dow Jones mất hơn 800 điểm, giá dầu tăng 7% sau lời đe dọa của ông Trump](http://vietstock.vn/2026/07/dow-jones-mat-hon-800-diem-gia-dau-tang-7-sau-loi-de-doa-cua-ong-trump-773-1473186.htm)
-• **11:30**: [SK Hynix lãi gấp 6 lần nhờ AI nhưng cổ phiếu vẫn lao dốc](http://vietstock.vn/2026/07/sk-hynix-lai-gap-6-lan-nho-ai-nhung-co-phieu-van-lao-doc-773-1472642.htm)
-• **11:20**: [Làn sóng bán tháo cổ phiếu AI](http://vietstock.vn/2026/07/lan-song-ban-thao-co-phieu-ai-773-1472634.htm)
 
 ---
