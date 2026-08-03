@@ -1,0 +1,41 @@
+---
+date: 2026-08-03
+source: vietstock.vn/rss
+generated: 2026-08-03T04:25:44
+---
+
+# 📊 Tin Tức Vietstock — 2026-08-03
+
+> **Nguồn**: [vietstock.vn](https://vietstock.vn) &nbsp;|&nbsp; **Thu thập**: 2026-08-03T04:25:44
+
+---
+
+## Nhận định thị trường
+• **19:00**: [Thị trường chứng quyền tuần 03-07/08/2026: Đỏ lửa cùng thị trường cơ sở](http://vietstock.vn/2026/08/thi-truong-chung-quyen-tuan-03-07082026-do-lua-cung-thi-truong-co-so-1636-1474851.htm)
+• **18:00**: [Vietstock Weekly 03-07/08/2026: Tâm lý thận trọng vẫn chi phối](http://vietstock.vn/2026/08/vietstock-weekly-03-07082026-tam-ly-than-trong-van-chi-phoi-1636-1474933.htm)
+• **20:00**: [Chứng khoán phái sinh tuần 03-07/08/2026: Tình hình không quá bi quan](http://vietstock.vn/2026/08/chung-khoan-phai-sinh-tuan-03-07082026-tinh-hinh-khong-qua-bi-quan-1636-1474788.htm)
+• **18:25**: [Chứng khoán Tuần 27-31/07/2026: Đà phục hồi được củng cố](http://vietstock.vn/2026/07/chung-khoan-tuan-27-31072026-da-phuc-hoi-duoc-cung-co-1636-1474901.htm)
+• **16:57**: [Nhịp đập Thị trường 31/07: Áp lực bán gia tăng trong phiên chiều, VN-Index lui về mốc 1,735 điểm](http://vietstock.vn/2026/07/nhip-dap-thi-truong-3107-ap-luc-ban-gia-tang-trong-phien-chieu-vn-index-lui-ve-moc-1735-diem-1636-1474221.htm)
+• **20:00**: [Thị trường chứng quyền ngày 31/07/2026: Khởi sắc cùng thị trường cơ sở](http://vietstock.vn/2026/07/thi-truong-chung-quyen-ngay-31072026-khoi-sac-cung-thi-truong-co-so-1636-1473621.htm)
+
+---
+
+## Cổ tức
+• **15:00**: [Tuần 03-07/08: Một doanh nghiệp cơ khí chốt chia cổ tức 100%](http://vietstock.vn/2026/08/tuan-03-0708-mot-doanh-nghiep-co-khi-chot-chia-co-tuc-100-738-1475425.htm)
+• **10:45**: [Masan Consumer chi hơn 2,600 tỷ tạm ứng cổ tức đợt 1/2026: Khẳng định vị thế từ sức mạnh dòng tiền](http://vietstock.vn/2026/07/masan-consumer-chi-hon-2600-ty-tam-ung-co-tuc-dot-12026-khang-dinh-vi-the-tu-suc-manh-dong-tien-738-1473287.htm)
+• **14:15**: [Một doanh nghiệp khoáng sản sắp chia cổ tức 5,000 đồng/cp sau quý lãi lao dốc 96%](http://vietstock.vn/2026/07/mot-doanh-nghiep-khoang-san-sap-chia-co-tuc-5000-dongcp-sau-quy-lai-lao-doc-96-738-1472708.htm)
+• **15:00**: [Cổ tức tuần 27-31/07: Nổi bật khoản cổ tức 80% của công ty ngành hàng không](http://vietstock.vn/2026/07/co-tuc-tuan-27-3107-noi-bat-khoan-co-tuc-80-cua-cong-ty-nganh-hang-khong-738-1471193.htm)
+• **20:02**: [Hơn 122.5 triệu cổ phiếu sắp được Chứng khoán VIX phát hành](http://vietstock.vn/2026/07/hon-1225-trieu-co-phieu-sap-duoc-chung-khoan-vix-phat-hanh-738-1471049.htm)
+• **14:56**: [An Gia sắp phát hành gần 19 triệu cổ phiếu trả cổ tức và ESOP](http://vietstock.vn/2026/07/an-gia-sap-phat-hanh-gan-19-trieu-co-phieu-tra-co-tuc-va-esop-738-1469483.htm)
+
+---
+
+## Chứng khoán thế giới
+• **11:33**: [Đợt bán tháo trái phiếu phát tín hiệu cảnh báo tới Fed](http://vietstock.vn/2026/08/dot-ban-thao-trai-phieu-phat-tin-hieu-canh-bao-toi-fed-773-1475411.htm)
+• **08:19**: [Phố Wall tăng điểm, Amazon bứt phá 15%](http://vietstock.vn/2026/08/pho-wall-tang-diem-amazon-but-pha-15-773-1475387.htm)
+• **11:12**: [Bong bóng cổ phiếu AI xì hơi, nhà đầu tư Hàn Quốc than thở: "Cuộc đời tôi coi như xong"](http://vietstock.vn/2026/07/bong-bong-co-phieu-ai-xi-hoi-nha-dau-tu-han-quoc-than-tho-cuoc-doi-toi-coi-nhu-xong-773-1474274.htm)
+• **10:30**: [Chứng khoán Hàn Quốc quay đầu tăng 13%, Samsung và SK hynix vọt hơn 20%](http://vietstock.vn/2026/07/chung-khoan-han-quoc-quay-dau-tang-13-samsung-va-sk-hynix-vot-hon-20-773-1474199.htm)
+• **08:33**: [Dow Jones tăng hơn 600 điểm sau báo cáo bùng nổ của Microsoft, nhóm AI lấy lại vị thế](http://vietstock.vn/2026/07/dow-jones-tang-hon-600-diem-sau-bao-cao-bung-no-cua-microsoft-nhom-ai-lay-lai-vi-the-773-1474078.htm)
+• **08:43**: [Dow Jones mất hơn 1,150 điểm vì lo ngại Fed chậm chân trong cuộc chiến chống lạm phát](http://vietstock.vn/2026/07/dow-jones-mat-hon-1150-diem-vi-lo-ngai-fed-cham-chan-trong-cuoc-chien-chong-lam-phat-773-1473210.htm)
+
+---
