@@ -1,0 +1,59 @@
+---
+date: 2026-08-27
+source: vira.org.vn × MSB Research
+published: 08:04 27/08/2026
+url: https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-27-08-2026-.html
+pdf: https://vira.org.vn/upload/news/26/08/27/260827_Ban_tin_kinh_te_tai_chinh_MSB_Research_AEYM.pdf
+---
+
+# 📊 Bản tin Kinh tế - Tài chính | Thứ Năm 27/08/2026
+
+> **Nguồn**: [VIRA](https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-27-08-2026-.html) × MSB Research
+> **Đăng**: 08:04 27/08/2026 &nbsp;|&nbsp; **Lưu**: 10:49 27/08/2026
+
+> 💡 **Thực hiện văn bản số 7125/NHNN-TD của NHNN ban hành ngày 07/08/2026, tính đến ngày 24/8/2026, đã có 12 ngân hàng công bố triển khai các chương trình tín dụng ưu đãi giảm từ 1,0% - 2,0%/năm so với lãi suất cho vay bình quân, tổng quy mô đạt khoảng 408.000 tỷ đồng.**
+
+---
+
+## 🇻🇳 Tin trong nước
+
+Thị trường ngoại tệ: Phiên 26/08, NHNN niêm yết tỷ giá trung tâm ở mức 25.611 VND/USD, giảm nhẹ 04 đồng so với phiên trước đó. Tỷ giá mua giao ngay được niêm yết ở mức 24.381 VND/USD, cao hơn 50 đồng so với tỷ giá sàn. Tỷ giá bán giao ngay được niêm yết ở mức 26.841 VND/USD, thấp hơn 50 đồng so với tỷ giá trần. Trên thị trường LNH, tỷ giá chốt phiên với mức 26.103 VND/USD, giảm 07 đồng so với phiên 25/08. Tỷ giá trên thị trường tự do tăng 07 đồng ở chiều mua vào trong khi giảm 03 đồng ở chiều bán ra, giao dịch tại 26.057 VND/USD và 26.157 VND/USD.
+
+### 🏦 Thị trường tiền tệ LNH: Ngày 26/08, lãi suất bình quân LNH VND giảm 0,15 – 0,50 đpt ở các kỳ hạn ON và 1M trong khi giữ nguyên ở kỳ hạn 1W và tăng 0,05 đpt ở kỳ hạn 2W so với phiên trước đó, giao dịch tại: ON 2,00%; 1W 6,30%; 2W 6,40% và 1M 6,90%. Lãi suất bình quân LNH USD không thay đổi ở kỳ hạn ON trong khi giảm 0,01 – 0,04 đpt ở các kỳ hạn còn lại; giao dịch tại: ON 3,65%; 1W 3,70%; 2W 3,76%, 1M 3,81%. Lợi suất TPCP trên thị trường thứ cấp đi ngang ở hầu hết các kỳ hạn ngoại trừ giảm ở kỳ hạn 10Y, chốt phiên với mức:
+
+3Y 3,70%; 5Y 4,26%; 7Y 4,32%; 10Y 4,45%; 15Y 4,58%.
+
+### ⚙️ Nghiệp vụ thị trường mở:
+
+Trên kênh cầm cố, NHNN chào thầu 5.000 tỷ đồng ở kỳ hạn 14 ngày, 1.000 tỷ đồng ở mỗi kỳ hạn 35 ngày và 63 ngày, 2.000 tỷ đồng kỳ hạn 91 ngày, lãi suất đều giữ ở mức 4,5%. Có 6.320,62 tỷ đồng trúng thầu ở cả 4 kỳ hạn. Có 3.005,31 tỷ đồng đáo hạn. NHNN không chào thầu tín phiếu NHNN. Như vậy, NHNN bơm ròng 3.315,31 tỷ đồng ra thị trường qua nghiệp vụ thị trường mở trong phiên hôm qua. Có 191.386,15 tỷ đồng lưu hành trên kênh cầm cố.
+
+### ▶ Thị trường trái phiếu:
+
+Phiên 26/08, KBNN đấu thầu thành công 12.507 tỷ đồng/17.000 tỷ đồng TPCP gọi thầu (tỷ lệ trúng thầu chỉ đạt 73,6%). Trong đó, kỳ hạn 5Y trúng thầu 6.707 tỷ đồng/7.000 tỷ đồng gọi thầu, 10Y trúng thầu 5.700 tỷ đồng/8.000 tỷ đồng gọi thầu, 15Y trúng thầu 50 tỷ đồng/1.000 tỷ đồng gọi thầu và 30Y trúng thầu 50 tỷ đồng/500 tỷ đồng gọi thầu. Kỳ hạn 3Y gọi thầu 500 tỷ đồng, tuy nhiên không có khối lượng trúng thầu. Lãi suất trúng thầu kỳ hạn 5Y ở mức 4,25% (tăng 0,01 đpt so với phiên đấu thầu trước đó), 10Y 4,41% (tăng 0,01 đpt), 15Y 4,55% (không đổi) và 30Y 4,60% (tăng 0,01 đpt).
+
+### 📈 Thị trường chứng khoán:
+
+Thị trường chứng khoán phiên hôm qua tăng tích cực, đặc biệt ở phiên chiều. Chốt phiên, VN-Index tăng 29,91 điểm (+1,67%) lên mức 1.821,32 điểm; HNX-Index mất 0,69 điểm (-0,24%) còn 281,96 điểm; UPCoM-Index nhích 0,11 điểm (+0,09%) đạt 126,89 điểm. Thanh khoản thị trường giảm nhẹ so với phiên trước đó với giá trị giao dịch đạt gần 17.400 tỷ đồng. Khối ngoại bán ròng nhẹ gần 40 tỷ đồng trên cả ba sàn.
+Thực hiện văn bản số 7125/NHNN-TD của NHNN ban hành ngày 07/08/2026, tính đến ngày 24/8/2026, đã có 12 ngân hàng công bố triển khai các chương trình tín dụng ưu đãi giảm từ 1,0% - 2,0%/năm so với lãi suất cho vay bình quân, tổng quy mô đạt khoảng 408.000 tỷ đồng. Việc tung ra các gói TD quy mô lớn với LS ưu đãi và phí dịch vụ thấp được kỳ vọng sẽ tạo ra dư địa phát triển mạnh mẽ cho cộng đồng doanh nghiệp.
+
+**Diễn biến Chỉ số Chứng khoán:**
+| Chỉ số | Điểm số | Thay đổi (+/-) | % Thay đổi |
+|---|---|---|---|
+| VN-Index | 1 | +29,91 | +1,67% |
+
+## 🌍 Tin quốc tế
+
+Văn phòng Thống kê Mỹ công bố GDP nước này tăng 1,5% q/q theo báo cáo sơ bộ lần 2, không điều chỉnh so với kết quả thống kê lần đầu tiên. Về lạm phát, chỉ số giá tiêu dùng cá nhân PCE lõi tại Mỹ tăng 0,2% m/m trong tháng 7 sau khi tăng 0,1% ở tháng trước đó, khớp với dự báo của thị trường. PCE toàn phần trong tháng này cũng có cùng mức tăng 0,2% m/m. So với cùng kỳ năm 2025, PCE toàn phần tăng 3,7% và PCE lõi tăng 3,3%, đều không thay đổi so với tháng 6 và vẫn cao hơn khá nhiều so với mức mục tiêu 2,0% của Cục Dự trữ Liên bang Mỹ Fed. Theo báo cáo, giá năng lượng đã giảm tới 14% m/m trong tháng 7, bên cạnh đó giá thực phẩm cũng giàm 2,4% và giá quần áo giày dép giảm 2,2% là những yếu tố tích cực ghìm giữ lạm phát. Mặc dù vậy, ở chiều ngược lại, giá dịch vụ tài chính và bảo hiểm tăng 24,3%, y tế tăng 23,2%, nhà ở tăng 16,4% và dịch vụ vận tải tăng 4,8% là những yếu tố khiến áp lực lạm phát chưa hạ nhiệt trở lại. Sau khi báo cáo PCE được công bố, công cụ dự báo của CME cho thấy có 63% (+3 đpt) khả năng Fed không điều chỉnh LSCS 3,50% - 3,75% trong cuộc họp ngày 16/09, và có 37% (- 3đpt) khả năng tăng LSCS 25 đcb. Kịch bản chiếm ưu thế vẫn là LSCS sẽ tăng thêm 0,25 đcb vào cuộc họp cuối năm ngày 09/12, lên mức 3,75% - 4,0%
+Văn phòng Thống kê Úc ABS công bố chỉ số giá tiêu dùng CPI toàn phần tại nước này tăng 1,0% m/m trong tháng 7 sau khi giảm nhẹ 0,1% ở tháng trước đó, cao hơn mức tăng 0,9% theo dự báo. So với cùng kỳ năm 2025, CPI tăng khoảng 3,5% y/y trong tháng 7, giảm tốc so với mức tăng 3,8% của tháng 6 nhưng vẫn cao hơn mức tăng 3,3% theo dự báo. CPI lõi tại Úc trong tháng 7 giữ mức tăng 3,6% y/y, không thay đổi so với tháng 6.
+Bản tin Kinh tế - Tài chính ngày 27/08/2026
+<div
+
+---
+
+## 📎 Tải PDF đầy đủ
+
+[260827_Ban_tin_kinh_te_tai_chinh_MSB_Research_AEYM.pdf](https://vira.org.vn/upload/news/26/08/27/260827_Ban_tin_kinh_te_tai_chinh_MSB_Research_AEYM.pdf) (Xem bảng biểu và biểu đồ)
+
+---
+
+*Thu thập bởi `collect_vira_pdf.py` | 10:49 27/08/2026*
