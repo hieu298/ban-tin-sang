@@ -1,0 +1,56 @@
+---
+date: 2026-09-09
+source: vira.org.vn × MSB Research
+published: 08:03 09/09/2026
+url: https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-09-09-2026-.html
+pdf: https://vira.org.vn/upload/news/26/09/09/260909_Ban_tin_kinh_te_tai_chinh_MSB_Research_FIWQ.pdf
+---
+
+# 📊 Bản tin Kinh tế - Tài chính | Thứ Tư 09/09/2026
+
+> **Nguồn**: [VIRA](https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-09-09-2026-.html) × MSB Research
+> **Đăng**: 08:03 09/09/2026 &nbsp;|&nbsp; **Lưu**: 05:38 09/09/2026
+
+> 💡 **Lũy kế đến hết ngày 31/08/2026, cả nước giải ngân 509.557,5 tỷ đồng, đạt 49,8% kế hoạch Thủ tướng Chính phủ giao.**
+
+---
+
+## 🇻🇳 Tin trong nước
+
+Thị trường ngoại tệ: Phiên 08/09, NHNN niêm yết tỷ giá trung tâm ở mức 25.603 VND/USD, giảm 08 đồng so với phiên trước đó. Tỷ giá mua giao ngay được niêm yết ở mức 24.373 VND/USD, cao hơn 50 đồng so với tỷ giá sàn. Tỷ giá bán giao ngay được niêm yết ở mức 26.833 VND/USD, thấp hơn 50 đồng so với tỷ giá trần. Trên thị trường LNH, tỷ giá chốt phiên với mức 25.978 VND/USD, giảm mạnh 46 đồng so với phiên 07/09. Tỷ giá trên thị trường tự do giảm 20 đồng ở cả hai chiều mua vào và bán ra, giao dịch tại 25.980 VND/USD và 26.080 VND/USD.
+
+### 🏦 Thị trường tiền tệ LNH: Ngày 08/09, lãi suất bình quân LNH VND giảm 0,90 – 1,00 đpt ở các kỳ hạn ngắn trong khi tăng 0,15 đpt ở kỳ hạn 1M so với phiên trước đó, giao dịch tại: ON 2,50%; 1W 3,50%; 2W 4,70% và 1M 6,15%. Lãi suất bình quân LNH USD không thay đổi ở tất cả các kỳ hạn; giao dịch tại: ON 3,65%; 1W 3,70%; 2W 3,76%, 1M 3,80%. Lợi suất TPCP trên thị trường thứ cấp biến động nhẹ trái chiều, chốt phiên với mức:
+
+3Y 3,70%; 5Y 4,26%; 7Y 4,33%; 10Y 4,46%; 15Y 4,58%.
+
+### ⚙️ Nghiệp vụ thị trường mở:
+
+Trên kênh cầm cố, NHNN chào thầu 8.000 tỷ đồng ở kỳ hạn 07 ngày, 1.000 tỷ đồng ở mỗi kỳ hạn 14 ngày, 35 ngày và 91 ngày, lãi suất đều giữ ở mức 4,5%. Có 7.121,62 tỷ đồng trúng thầu ở 2 kỳ hạn 7 ngày và 91 ngày, không có khối lượng trúng thầu ở các kỳ hạn còn lại. Khối lượng đáo hạn là 8.533,44 tỷ đồng. Như vậy, NHNN  hút ròng 1.411,82 tỷ đồng từ thị trường qua nghiệp vụ thị trường mở hôm qua. Có 249.333,44 tỷ đồng lưu hành trên kênh cầm cố.
+
+### 📈 Thị trường chứng khoán:
+
+Thị trường chứng khoán phiên hôm qua tăng điểm nhẹ trở lại. Kết thúc phiên giao dịch, VN-Index tăng 8,80 điểm (+0,48%) lên mức 1.830,44 điểm; HNX-Index thêm 0,51 điểm (+0,18%) đạt 281,11 điểm; UPCoM-Index nhích 0,01 điểm (+0,01%) lên 127,65 điểm. Thanh khoản thị trường sụt giảm với giá trị giao dịch đạt trên 11.500 tỷ đồng. Khối ngoại bán ròng 418 tỷ đồng trên cả 3 sàn.
+Theo báo cáo của Bộ Tài chính, số vốn đầu tư công nguồn NSNN năm 2026 được Quốc hội phân bổ và Thủ tướng Chính phủ giao 1.022.607 tỷ đồng. Cùng với phần vốn cân đối NSĐP được giao tăng thêm 14.709,6 tỷ đồng, tổng kế hoạch vốn đến thời điểm báo cáo cuối tháng 8/2026 lên tới 1.037.316,6 tỷ đồng. Lũy kế đến hết ngày 31/08/2026, cả nước giải ngân 509.557,5 tỷ đồng, đạt 49,8% kế hoạch Thủ tướng Chính phủ giao.
+
+**Diễn biến Chỉ số Chứng khoán:**
+| Chỉ số | Điểm số | Thay đổi (+/-) | % Thay đổi |
+|---|---|---|---|
+| VN-Index | 1 | +8,80 | +0,48% |
+| HNX-Index | 281,11 | +0,51 | +0,18% |
+
+## 🌍 Tin quốc tế
+
+Văn phòng Nội các Nhật Bản công bố GDP nước này chính thức tăng 0,4% q/q trong quý 2, được điều chỉnh nhẹ từ mức tăng 0,3% của báo cáo sơ bộ và khớp với dự báo từ thị trường. So với cùng kỳ, GDP tăng khoảng 1,4% y/y trong quý 2, cao hơn mức kỳ vọng 1,1% của các chuyên gia. Tiếp theo, cán cân vãng lai tại Nhật Bản thặng dư khoảng 2,52 nghìn tỷ JPY trong tháng 7, cao hơn mức thặng dư 1,40 nghìn tỷ của tháng 7 và đồng thời vượt nhẹ mức 2,48 nghìn tỷ theo dự báo. Cuối cùng, về thị trường lao động, mức thu nhập bình quân tại Nhật Bản tăng khoảng 4,7% y/y trong tháng 7, cao hơn mức 4,0% của tháng 6 và cũng vượt mạnh so với mức tăng 3,8% theo dự báo.
+NHTW Hàn Quốc BOK cho biết GDP nước này tăng trưởng 9,2% q/q trong quý 2 và tăng tới 26,4% y/y. Đây là tốc độ tăng trưởng lớn nhất mà Hàn Quốc ghi nhận kể từ thời điểm quý 3 năm 1979 khi GDP bứt tốc 27,7%. Nguyên nhân chính khiến Hàn Quốc tăng trưởng mạnh chủ yếu đến từ đầu tư AI và xuất khẩu được đẩy mạnh. Mặc dù vậy, sau khi loại trừ tác động của giá cả, GDP thực của Hàn Quốc chỉ tăng 0,6% q/q trong quý 2, khớp với dự báo của thị trường. So với cùng kỳ, GDP thực tăng khoảng 3,7% y/y, mở rộng nhẹ so với 3,6% của quý đầu năm. BOK dự báo GDP năm 2026 tăng khoảng 3,3% và giảm tốc còn 2,9% trong năm 2027. CPI toàn phần được dự báo đứng ở mức 2,7% cuối năm nay, hạ nhiệt so với mức 3,1% của tháng 8.
+Bản tin Kinh tế - Tài chính ngày 09/09/2026
+<div
+
+---
+
+## 📎 Tải PDF đầy đủ
+
+[260909_Ban_tin_kinh_te_tai_chinh_MSB_Research_FIWQ.pdf](https://vira.org.vn/upload/news/26/09/09/260909_Ban_tin_kinh_te_tai_chinh_MSB_Research_FIWQ.pdf) (Xem bảng biểu và biểu đồ)
+
+---
+
+*Thu thập bởi `collect_vira_pdf.py` | 05:38 09/09/2026*
