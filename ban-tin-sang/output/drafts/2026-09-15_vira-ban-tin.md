@@ -1,0 +1,59 @@
+---
+date: 2026-09-15
+source: vira.org.vn × MSB Research
+published: 08:15 15/09/2026
+url: https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-15-09-2026-.html
+pdf: https://vira.org.vn/upload/news/26/09/15/260915_Ban_tin_kinh_te_tai_chinh_MSB_Research_WZSU.pdf
+---
+
+# 📊 Bản tin Kinh tế - Tài chính | Thứ Ba 15/09/2026
+
+> **Nguồn**: [VIRA](https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-15-09-2026-.html) × MSB Research
+> **Đăng**: 08:15 15/09/2026 &nbsp;|&nbsp; **Lưu**: 05:39 15/09/2026
+
+> 💡 **Ngày 12/09/2026, NHNN thông báo, tính tới thời điểm này, dư nợ tín dụng toàn hệ thống ngân hàng tăng 9,91% so với cuối năm 2025.**
+
+---
+
+## 🇻🇳 Tin trong nước
+
+Thị trường ngoại tệ: Phiên 14/09, NHNN niêm yết tỷ giá trung tâm ở mức 25.607 VND/USD, tăng 11 đồng so với phiên cuối tuần trước. Tỷ giá mua giao ngay được niêm yết ở mức 24.377 VND/USD, cao hơn 50 đồng so với tỷ giá sàn. Tỷ giá bán giao ngay được niêm yết ở mức 26.837 VND/USD, thấp hơn 50 đồng so với tỷ giá trần. Trên thị trường LNH, tỷ giá chốt phiên với mức 25.990 VND/USD, tăng 40 đồng so với phiên 11/09. Tỷ giá trên thị trường tự do giảm 10 đồng ở chiều mua vào và 20 đồng ở chiều bán ra, giao dịch tại 25.880 VND/USD và 25.930 VND/USD.
+
+### 🏦 Thị trường tiền tệ LNH: Ngày 14/09, lãi suất bình quân LNH VND tăng 0,50 – 1,90 đpt ở hầu hết các kỳ hạn từ 1M trở xuống trong khi giữ nguyên ở kỳ hạn 2W so với phiên cuối tuần trước, giao dịch tại: ON 5,20%; 1W 5,30%; 2W 4,20% và 1M 6,00%. Lãi suất bình quân LNH USD tăng 0,01 đpt ở kỳ hạn ON trong khi giảm 0,01 – 0,06 đpt ở các kỳ hạn còn lại; giao dịch tại: ON 3,65%; 1W 3,70%; 2W 3,74%, 1M 3,79%. Lợi suất TPCP trên thị trường thứ cấp biến động nhẹ trái chiều, chốt phiên với mức:
+
+3Y 3,70%; 5Y 4,27%; 7Y 4,34%; 10Y 4,46%; 15Y 4,58%.
+
+### ⚙️ Nghiệp vụ thị trường mở:
+
+Trên kênh cầm cố, NHNN chào thầu 3.000 tỷ đồng ở mỗi kỳ hạn 07 ngày, 14 ngày và 35 ngày, 2.000 tỷ đồng ở kỳ hạn 91 ngày, lãi suất đều giữ ở mức 4,5%. Có 7.255,73 tỷ đồng trúng thầu ở cả 4 kỳ hạn. Có 32.139,89 tỷ đồng đáo hạn. Như vậy, NHNN  hút ròng 24.884,16 tỷ đồng từ thị trường qua nghiệp vụ thị trường mở phiên hôm qua. Có 190.147,03 tỷ đồng lưu hành trên kênh cầm cố.
+
+### 📈 Thị trường chứng khoán:
+
+Thị trường chứng khoán phiên đầu tuần tiêu cực, các chỉ số rung lắc quanh mốc tham chiếu và chốt phiên trong sắc đỏ. Kết thúc phiên giao dịch, VN-Index giảm 6,98 điểm (-0,39%) xuống mức 1.788,23 điểm; HNX-Index mất 0,74 điểm (-0,27%) còn 271,94 điểm; UPCoM-Index lùi 0,92 điểm (-0,73%) về 125,63 điểm. Thanh khoản thị trường vẫn ở mức thấp với giá trị giao dịch đạt trên 16.400 tỷ đồng. Khối ngoại mua ròng nhẹ 804 tỷ đồng trên cả 3 sàn.
+
+**Diễn biến Chỉ số Chứng khoán:**
+| Chỉ số | Điểm số | Thay đổi (+/-) | % Thay đổi |
+|---|---|---|---|
+| VN-Index | 1 | -6,98 | -0,39% |
+
+Ngày 12/09/2026
+
+, NHNN thông báo, tính tới thời điểm này, dư nợ tín dụng toàn hệ thống ngân hàng tăng 9,91% so với cuối năm 2025; cơ cấu tín dụng tiếp tục tập trung vào sản xuất, kinh doanh và các lĩnh vực ưu tiên, với khoảng trên 77% dư nợ phục vụ sản xuất, kinh doanh. Thống đốc NHNN đề nghị các TCTD tiếp tục tiết giảm chi phí hoạt động, công khai, minh bạch lãi suất và điều kiện tín dụng, không cạnh tranh bằng cách đẩy lãi suất huy động lên cao, qua đó tạo dư địa giảm chi phí vốn cho doanh nghiệp và người dân.
+
+## 🌍 Tin quốc tế
+
+Theo Bộ Tài chính Mỹ, thâm hụt ngân sách Liên bang nước này trong tháng 8 ở mức 167 tỷ USD, thấp hơn mức thâm hụt 345 tỷ USD của cùng kỳ năm trước và thấp hơn nhiều so với dự báo về mức thâm hụt 404 tỷ USD. Mức thâm hụt NS tính từ đầu năm tài chính đến nay về cơ bản vẫn giữ nguyên ở mức 1,97 nghìn tỷ USD. Tuy nhiên, có thể thấy, thâm hụt NS trong 11 tháng của năm tài chính 2026 (tính đến hết tháng 8) đã vượt mức thâm hụt cả năm tài chính 2025 là 1,775 nghìn tỷ USD, khiến năm 2026 trở thành một trong những năm có mức thâm hụt NS lớn thứ ba trong lịch sử nước Mỹ (chỉ sau giai đoạn khủng hoảng đại dịch Covid-19). Nợ công của Mỹ gần đây cũng đã vượt mốc 40.000 tỷ USD. Việc lãi suất và lợi suất TPCP Mỹ neo ở mức cao khiến chi phí trả lãi ròng của chính phủ tăng vọt lên mức 1.000 tỷ USD, vượt qua cả chi phí quốc phòng, trở thành gánh nặng tài khóa lớn nhất hiện nay.
+Chỉ số Kinh tế tổng hợp của Anh do Conference Board khảo sát (CB Leading Economic Index - LEI) tháng 7/2026 giảm 0,1% xuống mức 74,8 điểm, bằng với mức giảm của tháng trước đó (được điều chỉnh lên từ mức giảm 0,4% theo số liệu sơ bộ). Kết quả này ở tháng 7 cho thấy chỉ số tiếp tục đà giảm và chững lại trong nửa đầu năm 2026, phản ánh triển vọng kinh tế ngắn hạn của Anh vẫn còn nhiều thận trọng và chịu áp lực suy giảm từ chu kỳ kinh doanh. Dấu hiệu kinh tế suy giảm có thể sẽ gây áp lực lên NHTƯ Anh BOE phải hạ lãi suất điều hành hoặc duy trì CSTT nới lỏng, trong khi lạm phát vẫn ở mức cao với CPI tháng 7/2026 ở mức 2,9%, và được dự báo tăng lên mức 3,2% trong tháng 8 (CPI tháng 8 sẽ được công bố vào ngày 16/09).
+Theo báo cáo được Bộ Kinh tế, Thương mại và Công nghiệp Nhật Bản (METI) công bố, chỉ số sản xuất công nghiệp nước này giảm 0,2% m/m trong tháng 7, xuống còn 104,4 điểm. So với cùng kỳ năm 2025, con số này đã tăng 3,9%.
+Bản tin Kinh tế - Tài chính ngày 15/09/2026
+<div
+
+---
+
+## 📎 Tải PDF đầy đủ
+
+[260915_Ban_tin_kinh_te_tai_chinh_MSB_Research_WZSU.pdf](https://vira.org.vn/upload/news/26/09/15/260915_Ban_tin_kinh_te_tai_chinh_MSB_Research_WZSU.pdf) (Xem bảng biểu và biểu đồ)
+
+---
+
+*Thu thập bởi `collect_vira_pdf.py` | 05:39 15/09/2026*
