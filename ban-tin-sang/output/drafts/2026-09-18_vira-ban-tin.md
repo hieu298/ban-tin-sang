@@ -1,0 +1,56 @@
+---
+date: 2026-09-18
+source: vira.org.vn × MSB Research
+published: 08:05 18/09/2026
+url: https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-18-09-2026-.html
+pdf: https://vira.org.vn/upload/news/26/09/18/260918_Ban_tin_kinh_te_tai_chinh_MSB_Research_TPEY.pdf
+---
+
+# 📊 Bản tin Kinh tế - Tài chính | Thứ Sáu 18/09/2026
+
+> **Nguồn**: [VIRA](https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-18-09-2026-.html) × MSB Research
+> **Đăng**: 08:05 18/09/2026 &nbsp;|&nbsp; **Lưu**: 05:27 18/09/2026
+
+> 💡 **Liên Bộ Công Thương - Tài chính quyết định điều chỉnh tăng giá bán lẻ các mặt hàng xăng dầu từ 17/09.**
+
+---
+
+## 🇻🇳 Tin trong nước
+
+Thị trường ngoại tệ: Phiên 17/09, NHNN niêm yết tỷ giá trung tâm ở mức 25.632 VND/USD, tăng tiếp 06 đồng so với phiên trước đó. Tỷ giá mua giao ngay được niêm yết ở mức 24.401 VND/USD, cao hơn 50 đồng so với tỷ giá sàn. Tỷ giá bán giao ngay được niêm yết ở mức 26.863 VND/USD, thấp hơn 50 đồng so với tỷ giá trần. Trên thị trường LNH, tỷ giá chốt phiên với mức 26.010 VND/USD, tăng 15 đồng so với phiên 16/09. Tỷ giá trên thị trường tự do tăng 10 đồng ở cả hai chiều mua vào và bán ra, giao dịch tại 25.900 VND/USD và 26.000 VND/USD.
+
+### 🏦 Thị trường tiền tệ LNH: Ngày 17/09, lãi suất bình quân LNH VND giảm 0,30 - 0,40 đpt ở các kỳ hạn ngắn trong khi tăng 0,65 đpt ở kỳ hạn 2W và giữ nguyên ở kỳ hạn 1M so với phiên trước đó, giao dịch tại: ON 3,20%; 1W 3,90%; 2W 5,50% và 1M 6,00%. Lãi suất bình quân LNH USD tăng mạnh 0,16 - 0,21 đpt ở tất cả các kỳ hạn; giao dịch tại: ON 3,84%; 1W 3,91%; 2W 3,95%, 1M 4,01%. Lợi suất TPCP trên thị trường thứ cấp không thay đổi ở các kỳ hạn 3Y và 15Y trong khi tăng ở các kỳ hạn còn lại, chốt phiên với mức:
+
+3Y 3,70%; 5Y 4,29%; 7Y 4,34%; 10Y 4,46%; 15Y 4,58%.
+
+### ⚙️ Nghiệp vụ thị trường mở:
+
+Trên kênh cầm cố, NHNN chào thầu 1.000 tỷ đồng ở mỗi kỳ hạn 07 ngày, 14 ngày và 91 ngày, 2.000 tỷ đồng ở kỳ hạn 35 ngày, lãi suất đều giữ ở mức 4,5%. Có 2.530,78 tỷ đồng trúng thầu ở cả 4 kỳ hạn. Có 14.384,35 tỷ đồng đáo hạn. Như vậy, NHNN  hút ròng 11.853,57 tỷ đồng từ thị trường qua nghiệp vụ thị trường mở phiên hôm qua. Có 151.198,26 tỷ đồng lưu hành trên kênh cầm cố.
+
+### 📈 Thị trường chứng khoán:
+
+Thị trường chứng khoán phiên hôm qua diễn biến thận trọng, tích cực trong phiên sáng nhưng đã rung lắc từ cuối buổi, mặc dù vậy vẫn kết phiên trong sắc xanh. Chốt phiên, VN-Index tăng 12,66 điểm (+0,70%) đạt mức 1.822,77 điểm; HNX-Index thêm 0,68 điểm (+0,25%) lên 273,90 điểm; UPCoM-Index nhích 0,18 điểm (+0,14%) lên 126,16 điểm. Thanh khoản thị trường cải thiện với giá trị giao dịch đạt trên 16.400 tỷ đồng. Khối ngoại bán ròng 392 tỷ đồng trên cả 3 sàn.
+Liên Bộ Công Thương - Tài chính quyết định điều chỉnh tăng giá bán lẻ các mặt hàng xăng dầu từ 17/09. Theo đó, giá xăng E5RON92 không cao hơn 25.139 đồng/lít, tăng 1.395 đồng/lít so với giá bán tối đa hiện hành, thấp hơn xăng E10RON95-III 497 đồng/lít; giá xăng E10RON95-III 25.636 đồng/lít, tăng 1.397 đồng/lít; giá dầu diesel 0.05S 29.945 đồng/lít, tăng 1.460 đồng/lít; giá dầu mazut 180CST 3.5S 19.196 đồng/kg, tăng 1.039 đồng/kg. Ở kỳ điều hành này, liên Bộ Công Thương - Tài chính quyết định chi sử dụng Quỹ bình ổn giá xăng dầu ở  mức 1.250 đồng/lít với xăng sinh học, dầu diesel ở mức 2.000 đồng/lít; dầu mazut 1.250 đồng/kg. Giá xăng đã được điều chỉnh tăng lần thứ 3 liên tiếp.
+
+**Diễn biến Chỉ số Chứng khoán:**
+| Chỉ số | Điểm số | Thay đổi (+/-) | % Thay đổi |
+|---|---|---|---|
+| VN-Index | 1 | +12,66 | +0,70% |
+| HNX-Index | 273,90 | +0,68 | +0,25% |
+
+## 🌍 Tin quốc tế
+
+Ngân hàng Trung ương Anh BOE quyết định giữ nguyên lãi suất chính sách. Tại phiên họp ngày 17/09, các nhà hoạch định chính sách tại NHTW Anh BOE quyết định giữ nguyên LSCS ở mức 3,75%, mức này được duy trì từ cuối năm ngoái. Quyết định này được công bố một ngày sau khi dữ liệu cho thấy, lạm phát ở Anh đã tăng lên 3,1% trong tháng 8, tốc độ tăng giá nhanh nhất kể từ tháng 3, do giá xăng và dầu diesel tăng cao. Tuy nhiên, các thành viên Ủy ban CSTT MPC của BOE cũng phát tín hiệu cho thấy họ sẽ phản ứng nếu lạm phát gia tăng có nguy cơ kéo dài. Thống đốc BOE Andrew Bailey cho biết, đến nay, chi phí năng lượng toàn cầu tăng cao chỉ có tác động hạn chế đến giá cả và tiền lương ở Anh, nhưng sự biến động này càng kéo dài, tác động của nó đến lạm phát càng lớn, khả năng NHTW cần tăng LSCS càng cao. Tại kỳ họp này, vẫn còn bất đồng trong MPC về sự cần thiết phải hành động khi 3 trong số 9 thành viên Ủy ban bỏ phiếu ủng hộ việc tăng lãi suất lên 4%. BOE cũng cho biết sẽ thay đổi cách thức giảm lượng TPCP nắm giữ trong bối cảnh lợi suất TPCP tăng lên mức cao nhất trong nhiều thập kỷ, bao gồm cả việc tạm dừng đấu giá các trái phiếu này cho đến tháng 4/2027. NH này sẽ thanh lý lượng trái phiếu còn lại với tốc độ trung bình hàng năm là 46 tỷ GBP, tương đương 61,5 tỷ USD, tới cuối năm 2034, thay vì 70 tỷ như trước đây.
+Nước Mỹ đón một số thông tin kinh tế trái chiều. Theo số liệu được Bộ Lao động Mỹ công bố, trong tuần kết thúc ngày 12/09, số đơn xin trợ cấp thất nghiệp lần đầu (đã điều chỉnh theo yếu tố mùa vụ) là 196.000, giảm 10.000 so với mức 206.000 của tuần trước đó, trái với dự báo tăng lên mức 207.000 của thị trường. Mức trung bình động 4 tuần gần nhất là 203.250, giảm 2.750 so với mức trung bình 206.000 của 4 tuần liền trước. Trên thị trường xây dựng, số đơn cấp phép xây dựng tháng 8 đạt 1,39 triệu đơn, thấp hơn mức 1,43 triệu của tháng 7 và dự báo ở mức 1,40 triệu. Số nhà khởi công trong tháng trước đạt mức 1,28 triệu căn, cũng thấp hơn con số 1,31 triệu căn tháng trước đó và mức 1,32 triệu như dự báo. Tuy nhiên, doanh số nhà chờ bán lại tăng 0,3% m/m trong tháng 8 sau khi giảm mạnh 2,6% ở tháng 7 và tích cực hơn dự báo ở mức giảm 0,2%. Mặc dù vậy, so với cùng kỳ năm 2025, doanh số nhà chờ bán vẫn giảm mạnh 4,7%.
+Bản tin Kinh tế - Tài chính ngày 18/09/2026
+<div
+
+---
+
+## 📎 Tải PDF đầy đủ
+
+[260918_Ban_tin_kinh_te_tai_chinh_MSB_Research_TPEY.pdf](https://vira.org.vn/upload/news/26/09/18/260918_Ban_tin_kinh_te_tai_chinh_MSB_Research_TPEY.pdf) (Xem bảng biểu và biểu đồ)
+
+---
+
+*Thu thập bởi `collect_vira_pdf.py` | 05:27 18/09/2026*
