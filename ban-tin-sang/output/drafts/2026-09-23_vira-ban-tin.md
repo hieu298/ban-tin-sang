@@ -1,0 +1,57 @@
+---
+date: 2026-09-23
+source: vira.org.vn × MSB Research
+published: 08:37 23/09/2026
+url: https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-23-09-2026-.html
+pdf: https://vira.org.vn/upload/news/26/09/23/260923_Ban_tin_kinh_te_tai_chinh_MSB_Research_KVYR.pdf
+---
+
+# 📊 Bản tin Kinh tế - Tài chính | Thứ Tư 23/09/2026
+
+> **Nguồn**: [VIRA](https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-23-09-2026-.html) × MSB Research
+> **Đăng**: 08:37 23/09/2026 &nbsp;|&nbsp; **Lưu**: 05:25 23/09/2026
+
+> 💡 **Từ ngày 21/09/2026, Việt Nam chính thức được đưa vào rổ chỉ số thị trường mới nổi thuộc FTSE Global Equity Index Series.**
+
+---
+
+## 🇻🇳 Tin trong nước
+
+Thị trường ngoại tệ: Phiên 22/09, NHNN niêm yết tỷ giá trung tâm ở mức 25.640 VND/USD, tăng 03 đồng so với phiên đầu tuần. Tỷ giá mua giao ngay được niêm yết ở mức 24.408 VND/USD, cao hơn 50 đồng so với tỷ giá sàn. Tỷ giá bán giao ngay được niêm yết ở mức 26.872 VND/USD, thấp hơn 50 đồng so với tỷ giá trần. Trên thị trường LNH, tỷ giá chốt phiên với mức 26.014 VND/USD, giảm nhẹ 01 đồng so với phiên 21/09. Tỷ giá trên thị trường tự do tăng 30 đồng ở cả hai chiều mua vào và bán ra, giao dịch tại 25.950 VND/USD và 26.050 VND/USD.
+
+### 🏦 Thị trường tiền tệ LNH: Ngày 22/09, lãi suất bình quân LNH VND giảm 0,20 - 2,60 đpt ở các kỳ hạn ON và 2W trong khi tăng 0,10 – 0,80 đpt ở các kỳ hạn 1W và 1M so với phiên đầu tuần, giao dịch tại: ON 4,40%; 1W 5,60%; 2W 5,80% và 1M 6,60%. Lãi suất bình quân LNH USD giảm 0,02 - 0,05 đpt ở hầu hết các kỳ hạn ngoại trừ giữ nguyên ở kỳ hạn 1W; giao dịch tại: ON 3,83%; 1W 3,90%; 2W 3,91%, 1M 4,00. Lợi suất TPCP trên thị trường thứ cấp tăng ở các kỳ hạn 5Y và 10Y trong khi đi ngang ở các kỳ hạn còn lại, chốt phiên:
+
+3Y 3,71%; 5Y 4,30%; 7Y 4,34%; 10Y 4,47%; 15Y 4,58%.
+
+### ⚙️ Nghiệp vụ thị trường mở:
+
+Trên kênh cầm cố, NHNN chào thầu 6.000 tỷ đồng ở kỳ hạn 07 ngày, 3.000 tỷ đồng kỳ hạn 14 ngày, 1.000 tỷ đồng ở mỗi kỳ hạn 35 ngày và 91 ngày, lãi suất đều giữ ở mức 4,5%. Có 5.907,01 tỷ đồng trúng thầu ở cả 4 kỳ hạn. Có 6.557,23 tỷ đồng đáo hạn. Như vậy, NHNN  hút ròng 650,22 tỷ đồng từ thị trường qua nghiệp vụ thị trường mở hôm qua. Có 199.752,89 tỷ đồng lưu hành trên kênh cầm cố.
+
+### 📈 Thị trường chứng khoán:
+
+Thị trường chứng khoán phiên hôm qua khá tích cực, các chỉ số chính kết phiên trong sắc xanh. Chốt phiên, VN-Index tăng 17,26 điểm (+0,96%) lên mức 1.816,93 điểm; HNX-Index thêm 2,55 điểm (+0,93%) đạt 276,93 điểm; UPCoM-Index giảm 0,22 điểm (-0,17%) về 126,13 điểm. Thanh khoản thị trường ở mức rất thấp với giá trị giao dịch đạt gần 11.100 tỷ đồng. Khối ngoại mua ròng nhẹ 60 tỷ đồng trên cả 3 sàn.
+Từ ngày 21/09/2026, Việt Nam chính thức được đưa vào rổ chỉ số thị trường mới nổi thuộc FTSE Global Equity Index Series, từ đó khả năng kết nối của thị trường chứng khoán Việt Nam với cộng đồng đầu tư toàn cầu sẽ được mở rộng. Những cải cách thời gian qua đã tập trung vào việc hoàn thiện khuôn khổ pháp lý, nâng cao kỷ luật và hiệu quả vận hành thị trường, cải thiện khả năng tiếp cận của nhà đầu tư nước ngoài, đồng thời từng bước phát triển các sản phẩm và công cụ mới. Đây là điểm khởi đầu cho một giai đoạn phát triển với những yêu cầu cao hơn đối với TTCK Việt Nam trong quá trình hội nhập thị trường tài chính quốc tế.
+
+**Diễn biến Chỉ số Chứng khoán:**
+| Chỉ số | Điểm số | Thay đổi (+/-) | % Thay đổi |
+|---|---|---|---|
+| VN-Index | 1 | +17,26 | +0,96% |
+| HNX-Index | 276,93 | +2,55 | +0,93% |
+| UPCoM-Index | 126,13 | -0,22 | -0,17% |
+
+## 🌍 Tin quốc tế
+
+Theo Công ty Xử lý dữ liệu tư động ADP của Mỹ, trong bốn tuần kết thúc vào ngày 05/09, các nhà tuyển dụng tư nhân tại nước này đã tạo thêm trung bình 20.000 việc làm phi nông nghiệp mỗi tuần. Con số này cao hơn mức 16.750 việc làm của 4 tuần liền trước đó. Thị trường chờ đợi số liệu về số đơn xin trợ cấp thất nghiệp lần đầu tại Mỹ tuần kết thúc ngày 19/09 được công bố vào ngày mai 24/09.
+Thống đốc Ngân hàng Dự trữ Úc RBA Michele Bullock có bài phát biểu quan trọng tại Ủy ban Phát triển Kinh tế Úc ngày 22/09. Bà cho biết, rủi ro gia tăng lạm phát có thể đang trở thành hiện thực do giá năng lượng vẫn ở mức cao và nhu cầu trong nước tiếp tục dư thừa. Tỷ lệ thất nghiệp trong khoảng từ 4,5% đến 5,0% có thể giúp kiềm chế lạm phát, cho thấy có thể cần phải tăng lãi suất từ mức hiện tại là 4,5%. Tuy nhiên, bà Bullock cho biết bà không cố gắng báo hiệu điều gì có thể xảy ra với lãi suất khi hội đồng chính sách gồm chín thành viên của RBA họp vào ngày 29/09 tới, mà chỉ nhấn mạnh những rủi ro gia tăng lạm phát. Trước đó, Phó Thống đốc RBA Sarah Hunter nhắc lại rằng lãi suất có thể phải tăng lần thứ tư trong năm nay để đảm bảo lạm phát được kiềm chế. RBA đã tăng LSCS thêm 75 đcb kể từ tháng 2/2026, đưa  LS trở lại mức cao nhất sau đại dịch là 4,35%. Tuy nhiên, lạm phát lõi vẫn ở mức 3,6%, cao hơn nhiều so với phạm vi mục tiêu từ 2% - 3% của RBA. Thị trường định giá dựa trên giả định 95% khả năng RBA sẽ tăng lãi suất lên 4,60% trong cuộc họp tới ngày 29/09, và dự đoán lãi suất sẽ đạt đỉnh 4,85% vào đầu năm sau.
+Bản tin Kinh tế - Tài chính ngày 23/09/2026
+<div
+
+---
+
+## 📎 Tải PDF đầy đủ
+
+[260923_Ban_tin_kinh_te_tai_chinh_MSB_Research_KVYR.pdf](https://vira.org.vn/upload/news/26/09/23/260923_Ban_tin_kinh_te_tai_chinh_MSB_Research_KVYR.pdf) (Xem bảng biểu và biểu đồ)
+
+---
+
+*Thu thập bởi `collect_vira_pdf.py` | 05:25 23/09/2026*
