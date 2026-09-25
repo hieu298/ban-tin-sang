@@ -1,0 +1,51 @@
+---
+date: 2026-09-25
+source: vira.org.vn × MSB Research
+published: 07:59 25/09/2026
+url: https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-25-09-2026-.html
+pdf: https://vira.org.vn/upload/news/26/09/25/260925_Ban_tin_kinh_te_tai_chinh_MSB_Research_VPTK.pdf
+---
+
+# 📊 Bản tin Kinh tế - Tài chính | Thứ Sáu 25/09/2026
+
+> **Nguồn**: [VIRA](https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-25-09-2026-.html) × MSB Research
+> **Đăng**: 07:59 25/09/2026 &nbsp;|&nbsp; **Lưu**: 05:40 25/09/2026
+
+> 💡 **Liên Bộ Công Thương – Tài chính điều chỉnh tăng giá xăng dầu từ ngày 24/09.**
+
+---
+
+## 🇻🇳 Tin trong nước
+
+Thị trường ngoại tệ: Phiên 24/09, NHNN niêm yết tỷ giá trung tâm ở mức 25.635 VND/USD, không thay đổi so với phiên trước đó. Tỷ giá mua giao ngay được niêm yết ở mức 24.404 VND/USD, cao hơn 50 đồng so với tỷ giá sàn. Tỷ giá bán giao ngay được niêm yết ở mức 26.866 VND/USD, thấp hơn 50 đồng so với tỷ giá trần. Trên thị trường LNH, tỷ giá chốt phiên với mức 25.991 VND/USD, giảm 22 đồng so với phiên 23/09. Tỷ giá trên thị trường tự do giảm 18 đồng ở chiều mua vào trong khi tăng 12 đồng ở chiều bán ra, giao dịch tại 25.912 VND/USD và 26.042 VND/USD.
+
+### 🏦 Thị trường tiền tệ LNH: Ngày 24/09, lãi suất bình quân LNH VND giảm 0,23 - 1,50 đpt ở tất cả các kỳ hạn từ 1M trở xuống so với phiên trước đó, giao dịch tại: ON 1,00%; 1W 5,10%; 2W 5,20% và 1M 6,15%. Lãi suất bình quân LNH USD tăng 0,01 – 0,04 đpt ở tất cả các kỳ hạn; giao dịch tại: ON 3,85%; 1W 3,89%; 2W 3,93%, 1M 4,02. Lợi suất TPCP trên thị trường thứ cấp đi ngang ở tất cả các kỳ hạn, chốt phiên với mức:
+
+3Y 3,71%; 5Y 4,29%; 7Y 4,33%; 10Y 4,47%; 15Y 4,58%.
+
+### ⚙️ Nghiệp vụ thị trường mở:
+
+Trên kênh cầm cố, NHNN chào thầu 1.000 tỷ đồng ở mỗi kỳ hạn 07 ngày, 14 ngày, 35 ngày và ngày 91 ngày, lãi suất đều giữ ở mức 4,5%. Có 598,08 tỷ đồng trúng thầu ở cả 4 kỳ hạn. Có 5.116,54 tỷ đồng đáo hạn. Như vậy, NHNN hút ròng 4.518,46 tỷ đồng từ thị trường qua nghiệp vụ thị trường mở phiên hôm qua. Có 192.118,93 tỷ đồng lưu hành trên kênh cầm cố.
+
+### 📈 Thị trường chứng khoán:
+
+Thị trường chứng khoán phiên hôm qua tiếp tục tiêu cực, thị trường tràn ngập sắc đỏ. Chốt phiên, VN-Index giảm mạnh 25,56 điểm (-1,47%) xuống mức 1.775,09 điểm; HNX-Index mất 3,68 điểm (-1,33%) còn 272,77 điểm; UPCoM-Index lùi 0,18 điểm (-0,14%) về 125,83 điểm. Thanh khoản thị trường có cải thiện với giá trị giao dịch đạt trên 14.500 tỷ đồng. Khối ngoại bán ròng 912 tỷ đồng trên cả 3 sàn.
+Theo Bộ Tài chính, tính đến ngày 15/09, tổng thu NSNN đạt 2.070.622 tỷ đồng, đạt 81,9% dự toán, tổng chi NSNN đạt 1.707.632 tỷ đồng, đạt 54,1%. Trong đó, chi đầu tư phát triển đạt 540.123 tỷ đồng, mới đạt 48,2% dự toán, chi thường xuyên ở mức 1.085.000 tỷ đồng, đạt 60,0%.
+Liên Bộ Công Thương – Tài chính điều chỉnh tăng giá xăng dầu từ ngày 24/09. Theo đó, giá xăng E5RON92 có giá 26.397 đồng/lít (tăng 1.258 đồng/lít), thấp hơn xăng E10RON95-III 690 đồng/lít; xăng E10RON95-III: 27.087 đồng/lít (tăng 1.451 đồng/lít); dầu diesel 0.05S: không cao hơn 30.497 đồng/lít (tăng 552 đồng/lít); dầu mazut 180CST 3.5S: 19.472 đồng/kg (tăng 276 đồng/kg).
+
+## 🌍 Tin quốc tế
+
+Theo số liệu từ Bộ Lao động Mỹ, trong tuần kết thúc ngày 19/09, nước Mỹ có 197 nghìn người nộp đơn xin trợ cấp thất nghiệp lần đầu, giảm nhẹ từ mức 198 nghìn của tuần trước đó, đồng thời thấp hơn dự báo tăng lên mức 201 nghìn đơn. Mức trung bình động 4 tuần là 202.250 đơn, giảm 1.750 so với mức trung bình đã điều chỉnh của 4 tuần liền trước đó. Trên thị trường bất động sản, doanh số bán nhà mới tại Mỹ trong tháng 8 đạt 684.000 căn, cao hơn mức 607.000 của tháng 7 và mức 615.000 dự báo của thị trường. Doanh số này tăng 6,4% m/m nhưng giảm 2,0% y/y. Mức giá trung bình trong tháng 8 là khoảng 393.700 USD/căn, giảm 5,8% y/y, do các nhà xây dựng tập trung vào phân khúc giá rẻ hơn. Tuy nhiên, lãi suất thế chấp mua nhà tại Mỹ vừa chính thức vượt mốc 7% (đạt khoảng 7,11% - 7,45% đối với kỳ hạn cố định 30 năm). Đây là mức cao nhất trong vòng 20 tháng qua, thiết lập ngay sau quyết định tăng lãi suất cơ bản của Cục Dự trữ Liên bang Fed nhằm kiềm chế lạm phát vốn đang chịu áp lực lớn từ cuộc xung đột ở Trung Đông.
+Thị trường lao động Úc biến động trái chiều. Theo thông tin từ Văn phòng Thống kê Úc ABS, tỷ lệ thất nghiệp tại nước này tăng lên mức 4,6% trong tháng 8, từ mức 4,5% của tháng 7 cũng là dự báo của giới phân tích. Đây là tỷ lệ thất nghiệp cao nhất kể từ sau đại dịch Covid 2022. Mặc dù vậy, lực lượng lao động của Úc đã tăng thêm 67.700 người trong tháng 8, đẩy tỷ lệ tham gia lực lượng lao động lên mức 67,1% (tăng từ 66,9% của tháng 7). Lực lượng lao động tăng thêm 67.700 người trong tháng trước là do có thêm 39.500 người tìm được việc làm và 28.200 người được ghi nhận là thất nghiệp chính thức. Con số 39,5 nghìn người này ghi nhận mức rất tích cực sau khi giảm 15,8 nghìn tháng trước đó, đồng thời cao hơn dự báo ở mức tăng 22,5 nghìn. Với một thị trường lao động khá vững chắc, phần lớn các nhà giao dịch trên thị trường tiền tệ đều dự báo NHTW Úc RBA sẽ tăng lãi suất vào tuần tới nhằm kiềm chế hoạt động kinh tế và đẩy lùi lạm phát.
+Bản tin Kinh tế - Tài chính ngày 25/09/2026
+<div
+
+---
+
+## 📎 Tải PDF đầy đủ
+
+[260925_Ban_tin_kinh_te_tai_chinh_MSB_Research_VPTK.pdf](https://vira.org.vn/upload/news/26/09/25/260925_Ban_tin_kinh_te_tai_chinh_MSB_Research_VPTK.pdf) (Xem bảng biểu và biểu đồ)
+
+---
+
+*Thu thập bởi `collect_vira_pdf.py` | 05:40 25/09/2026*
