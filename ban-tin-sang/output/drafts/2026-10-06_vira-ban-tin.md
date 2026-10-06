@@ -1,0 +1,48 @@
+---
+date: 2026-10-06
+source: vira.org.vn × MSB Research
+published: 11:15 06/10/2026
+url: https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-06-10-2026-.html
+pdf: 
+---
+
+# 📊 Bản tin Kinh tế - Tài chính | Thứ Ba 06/10/2026
+
+> **Nguồn**: [VIRA](https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-06-10-2026-.html) × MSB Research
+> **Đăng**: 11:15 06/10/2026 &nbsp;|&nbsp; **Lưu**: 07:04 06/10/2026
+
+> 💡 **Thu NSNN đạt kết quả khả quan!**
+
+---
+
+## 🇻🇳 Tin trong nước
+
+Thị trường ngoại tệ: Phiên 05/10, NHNN niêm yết tỷ giá trung tâm ở mức 25.643 VND/USD, tăng 07 đồng so với phiên cuối tuần trước. Tỷ giá mua giao ngay được niêm yết ở mức 24.411 VND/USD, cao hơn 50 đồng so với tỷ giá sàn. Tỷ giá bán giao ngay được niêm yết ở mức 26.875 VND/USD, thấp hơn 50 đồng so với tỷ giá trần. Trên thị trường LNH, tỷ giá chốt phiên với mức 26.002 VND/USD, tăng 19 đồng so với phiên 02/10. Tỷ giá trên thị trường tự do tăng 80 đồng ở cả hai chiều mua vào và bán ra, giao dịch tại 26.020 VND/USD và 26.100 VND/USD.
+
+### 🏦 Thị trường tiền tệ LNH: Ngày 05/10, lãi suất bình quân LNH VND giảm mạnh 0,40 – 0,85 đpt ở tất cả các kỳ hạn từ 1M trở xuống so với phiên cuối tuần trước, giao dịch tại: ON 2,00%; 1W 3,10%; 2W 4,15% và 1M 5,80%. Lãi suất bình quân LNH USD giữ nguyên ở kỳ hạn ON trong khi tăng 0,01 đpt ở kỳ hạn 1W, giảm 0,02 đpt ở các kỳ hạn 2W và 1M; giao dịch tại: ON 3,85%; 1W 3,90%; 2W 3,91%, 1M 4,01. Lợi suất TPCP trên thị trường thứ cấp biến động nhẹ trái chiều, chốt phiên:
+
+3Y 3,72%; 5Y 4,30%; 7Y 4,34%; 10Y 4,47%; 15Y 4,58%.
+
+### ⚙️ Nghiệp vụ thị trường mở:
+
+Trên kênh cầm cố, NHNN chào thầu 1.000 tỷ đồng ở mỗi kỳ hạn 07 ngày, 14 ngày, 35 ngày và ngày 91 ngày, lãi suất đều giữ ở mức 4,5%. Không có khối lượng trúng thầu ở cả 4 kỳ hạn. Có 18.377,37 tỷ đồng đáo hạn. Như vậy, NHNN hút ròng 18.377,37 tỷ đồng từ thị trường qua nghiệp vụ thị trường mở phiên hôm qua. Có 114.964,56 tỷ đồng lưu hành trên kênh cầm cố.
+
+### 📈 Thị trường chứng khoán:
+
+Thị trường chứng khoán phiên hôm khá giằng co, tuy nhiên lực mua xuất hiện cuối phiên giúp các chỉ số phục hồi. Chốt phiên, VN-Index tăng khá mạnh 15,49 điểm (+0,89%) lên mức 1.753,20 điểm; HNX-Index thêm 2,87 điểm (+1,08%) đạt 269,62 điểm; UPCoM-Index giảm nhẹ 0,44 điểm (-0,35%) còn 125,49 điểm. Thanh khoản thị trường vẫn ở mức thấp với giá trị giao dịch đạt trên 11.000 tỷ đồng. Khối ngoại bán ròng 283 tỷ đồng trên cả 3 sàn.
+Theo Cục Thống kê, Bộ Tài chính, tổng thu NSNN tháng 9 ước đạt 162,7 nghìn tỷ đồng. Lũy kế tổng thu NSNN 9 tháng năm 2026 ước đạt 2.187,3 nghìn tỷ đồng, bằng 86,5% dự toán năm và tăng 12,1% so với cùng kỳ năm trước. Tổng chi NSNN tháng 9 ước đạt 256,8 nghìn tỷ đồng. Tính chung 9 tháng năm 2026, chi NSNN ước đạt 1.873,7 nghìn tỷ đồng, bằng 59,3% dự toán năm và tăng 14,5% so với cùng kỳ năm trước.
+
+**Diễn biến Chỉ số Chứng khoán:**
+| Chỉ số | Điểm số | Thay đổi (+/-) | % Thay đổi |
+|---|---|---|---|
+| HNX-Index | 269,62 | +2,87 | +1,08% |
+
+## 🌍 Tin quốc tế
+
+Lĩnh vực dịch vụ của Mỹ không tăng trưởng cao như dự báo. Theo kết quả khảo sát của Viện Quản lý cung ứng ISM của Mỹ, chỉ số PMI lĩnh vực dịch vụ nước này chỉ đạt mức 54,9% trong tháng 9, thấp hơn mức 55,4% của tháng 8, đồng thời cũng thấp hơn dự báo của thị trường ở mức 55,1%. Tuy nhiên, đây là tháng thứ 27 liên tiếp chỉ số này ở trên mức tăng trưởng. Cụ thể, chỉ số Hoạt động Kinh doanh vẫn duy trì trong vùng tăng trưởng vào tháng 9, giảm 5,2 đpt xuống còn 56,5% so với mức 61,7% của tháng 8. Chỉ số Đơn hàng Mới đạt mức 59,8%, thấp hơn 1,1 đpt so với con số 60,9% của tháng 8. Chỉ số Việc làm đã chuyển sang vùng tăng trưởng lần đầu tiên sau ba tháng với mức 50,1%, tăng 2,3 đpt so với mức 47,8% được ghi nhận vào tháng 8.
+Lĩnh vực dịch vụ của Eurozone nói chung và nước Đức nói riêng tiếp tục tăng trưởng trong tháng 9. Theo báo của của S&P Global, chỉ số PMI lĩnh vực dịch vụ chính thức của Eurozone và Đức lần lượt ở mức 53,0 điểm và 52,9 điểm, không thay đổi so với kết quả sơ bộ cũng là dự báo của thị trường, cao hơn mức 51,6 và 47,9 điểm của tháng 7. Tại Eurozone, hoạt động kinh doanh của khu vực tư nhân đã tăng trưởng với tốc độ nhanh nhất trong gần ba năm rưỡi nhờ nhu cầu cải thiện và việc làm tăng. Tuy nhiên, triển vọng vẫn ở mức tương đối khiêm tốn trong bối cảnh áp lực lạm phát gia tăng. Cả chi phí đầu vào và giá bán ra đều tăng mạnh nhất kể từ tháng 5. Tại Đức, lĩnh vực dịch vụ của nước này ghi nhận sự tăng trưởng vững chắc về hoạt động kinh doanh trong tháng 9, nhờ vào sự phục hồi liên tục của nhu cầu. Trong khi đó, số lượng việc làm đã tăng tháng thứ hai liên tiếp, phù hợp với các dấu hiệu cho thấy áp lực về năng lực hoạt động đang gia tăng cùng kỳ vọng về sự phát triển hơn nữa trong thời gian tới. Tốc độ tăng trưởng nhanh nhất của lĩnh vực dịch vụ của khu vực này kể từ tháng 11 năm ngoái cho thấy đà phục hồi kinh tế đang tăng tốc và lan rộng ra ngoài lĩnh vực sản xuất.
+<div
+
+---
+
+*Thu thập bởi `collect_vira_pdf.py` | 07:04 06/10/2026*
