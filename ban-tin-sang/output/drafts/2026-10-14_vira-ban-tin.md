@@ -1,0 +1,55 @@
+---
+date: 2026-10-14
+source: vira.org.vn × MSB Research
+published: 08:11 14/10/2026
+url: https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-14-10-2026-.html
+pdf: https://vira.org.vn/upload/news/26/10/14/261014_Ban_tin_kinh_te_tai_chinh_MSB_Research_OSSB.pdf
+---
+
+# 📊 Bản tin Kinh tế - Tài chính | Thứ Tư 14/10/2026
+
+> **Nguồn**: [VIRA](https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-14-10-2026-.html) × MSB Research
+> **Đăng**: 08:11 14/10/2026 &nbsp;|&nbsp; **Lưu**: 05:41 14/10/2026
+
+> 💡 **Theo báo cáo Triển vọng Kinh tế Thế giới WEO tháng 10/2026, Quỹ Tiền tệ Quốc tế IMF dự báo GDP thực của Việt Nam tăng 8,4% trong năm 2026, cao hơn mức 8% của năm 2025. Sang năm 2027, tăng trưởng dự kiến giảm xuống 7,5%.**
+
+---
+
+## 🇻🇳 Tin trong nước
+
+Thị trường ngoại tệ: Phiên 13/10, NHNN niêm yết tỷ giá trung tâm ở mức 25.633 VND/USD, tăng 12 đồng so với phiên đầu tuần. Tỷ giá mua giao ngay được niêm yết ở mức 24.402 VND/USD, cao hơn 50 đồng so với tỷ giá sàn. Tỷ giá bán giao ngay được niêm yết ở mức 26.864 VND/USD, thấp hơn 50 đồng so với tỷ giá trần. Trên thị trường LNH, tỷ giá chốt phiên với mức 25.914 VND/USD, giảm 16 đồng so với phiên 12/10. Tỷ giá trên thị trường tự do giữ nguyên ở cả hai chiều mua vào và bán ra, giao dịch tại 25.970 VND/USD và 26.070 VND/USD.
+
+### 🏦 Thị trường tiền tệ LNH: Ngày 13/10, lãi suất bình quân LNH VND đi ngang ở hầu hết các kỳ hạn từ 1M trở xuống ngoại trừ tăng 0,10 đpt ở kỳ hạn 1W so với phiên đầu tuần, giao dịch tại: ON 4,80%; 1W 4,90%; 2W 5,50% và 1M 5,70%. Lãi suất bình quân LNH USD giảm 0,01 đpt ở các kỳ hạn ON và 1M trong khi tăng 0,01 – 0,02 đpt ở kỳ hạn còn lại; giao dịch tại: ON 3,84%; 1W 3,89%; 2W 3,94%, 1M 4,02. Lợi suất TPCP trên thị trường thứ cấp biến động trái chiều, chốt phiên ở mức:
+
+3Y 3,72%; 5Y 4,29%; 7Y 4,34%; 10Y 4,47%; 15Y 4,57%.
+
+### ⚙️ Nghiệp vụ thị trường mở:
+
+Trên kênh cầm cố, NHNN chào thầu 8.000 tỷ đồng ở kỳ hạn 07 ngày, 5.000 tỷ đồng kỳ hạn 35 ngày, 2.000 tỷ đồng ở kỳ hạn 35 ngày và 1.000 tỷ đồng kỳ hạn 91 ngày, lãi suất đều giữ ở mức 4,5%. Có 12.331 tỷ đồng trúng thầu ở cả 4 kỳ hạn. Có 331,63 tỷ đồng đáo hạn. Như vậy, NHNN bơm ròng 11.999,38 tỷ đồng ra thị trường qua nghiệp vụ thị trường mở hôm qua. Có 111.687,13 tỷ đồng lưu hành trên kênh cầm cố.
+
+### 📈 Thị trường chứng khoán:
+
+Trên thị trường chứng khoán phiên hôm qua, sắc đỏ chiếm ưu thế. Kết phiên, VN-Index mất 1,56 điểm (-0,09%) về mức 1.719,42 điểm; HNX-Index giảm 0,44 điểm (-0,17%) xuống 264,25 điểm; UPCoM-Index lùi 0,88 điểm (-0,71%) còn 123,85 điểm. Thanh khoản thị trường vẫn ở mức thấp với giá trị giao dịch đạt gần 12.000 tỷ đồng. Khối ngoại bán ròng 458 tỷ đồng trên cả 3 sàn.
+Theo báo cáo Triển vọng Kinh tế Thế giới WEO tháng 10/2026, Quỹ Tiền tệ Quốc tế IMF dự báo GDP thực của Việt Nam tăng 8,4% trong năm 2026, cao hơn mức 8% của năm 2025. Sang năm 2027, tăng trưởng dự kiến giảm xuống 7,5%. Cùng với triển vọng tăng trưởng tích cực, IMF cũng dự báo áp lực lạm phát tại Việt Nam gia tăng trong hai năm tới. Cụ thể, CPI bình quân được dự báo tăng từ 3,3% năm 2025 lên 4,7% năm 2026 và tiếp tục đạt 4,9% vào năm 2027. Theo IMF, thặng dư tài khoản vãng lai của Việt Nam được dự báo giảm từ mức tương đương 6,7% GDP năm 2025 xuống chỉ còn 0,3% GDP trong năm 2026, trước khi phục hồi lên 3,4% GDP vào năm 2027.
+
+**Diễn biến Chỉ số Chứng khoán:**
+| Chỉ số | Điểm số | Thay đổi (+/-) | % Thay đổi |
+|---|---|---|---|
+| HNX-Index | 264,25 | -0,44 | -0,17% |
+
+## 🌍 Tin quốc tế
+
+Tại báo cáo Triển vọng Kinh tế Thế giới vừa được Quỹ Tiền tệ Quốc tế công bố, tăng trưởng kinh tế toàn cầu 2026 được IMF dự báo sẽ chậm lại ở mức 3,1% trong năm nay (giảm từ 3,5% năm 2025), nhưng vẫn khả quan hơn mức dự báo 3% mà IMF đưa ra hồi tháng 7, nhờ vào đầu tư cho AI và các biện pháp hỗ trợ tài khóa. Đối với năm 2027, tổ chức này giữ nguyên dự báo ở mức 3,4%. Lạm phát được dự báo tăng lên 4,7% trong năm 2026 do chi phí năng lượng leo thang và sự bùng nổ đầu tư vào AI, sau đó sẽ hạ nhiệt xuống còn 4,1% vào năm 2027. Các quan chức IMF cho biết, nền kinh tế toàn cầu đã thể hiện khả năng chống chịu tốt, nhưng khả năng đó đang dần chạm tới giới hạn, họ kêu gọi các nhà hoạch định chính sách khôi phục dư địa tài khóa và đảm bảo an ninh chuỗi cung ứng. Cụ thể với từng quốc gia, Mỹ được dự báo sẽ tăng trưởng 2,3% trong cả 2 năm 2026 và 2027, Eurozone chỉ đạt mức tăng trưởng khiêm tốn 1,1% trong năm nay do chi phí năng lượng tăng cao và niềm tin người tiêu dùng suy yếu. Khu vực Trung Đông và Trung Á dự kiến sẽ suy giảm 0,3% trong năm nay; tăng trưởng Trung Quốc được dự báo tăng lên 4,5% trong năm 2026 và 4,0% vào năm 2027; đối với Ấn Độ, mức dự báo là 7,0% cho cả năm 2026 và 2027.
+Biên bản được công bố hôm qua cho thấy tất cả các thành viên của Hội đồng CSTT NHTW Úc RBA đều ủng hộ việc tăng LSCS thêm 25 đcb lên 4,60% tại cuộc họp ngày 28-29/09. Các thành viên đồng ý rằng một số rủi ro tăng lạm phát được xác định vào tháng 8 đã trở thành hiện thực hoặc trở nên nghiêm trọng hơn, trong khi nền kinh tế tiếp tục cho thấy sức bền dù nhu cầu đang chậm lại. RBA cho biết lạm phát vẫn còn quá cao và các dự báo trước đó về việc lạm phát sẽ trở về mức giữa của biên độ mục tiêu 2%-3% vào cuối năm 2027 phụ thuộc vào một số điều kiện thuận lợi mà hiện nay có vẻ khó có thể xảy ra. Liên quan đến thông tin kinh tế, kết quả khảo sát của Ngân hàng NAB tháng 9 cho thấy chỉ số niềm tin ở Úc giảm 4 điểm xuống mức -13; thấp hơn 18 điểm so với mức trung bình dài hạn và nằm trong nhóm 5% các kết quả thấp nhất trong lịch sử khảo sát. Bộ ba áp lực gồm lãi suất tăng, bất ổn toàn cầu và chi phí nhiên liệu (xăng và dầu diesel) leo thang đang kìm hãm niềm tin kinh doanh.
+Bản tin Kinh tế - Tài chính ngày 14/10/2026
+<div
+
+---
+
+## 📎 Tải PDF đầy đủ
+
+[261014_Ban_tin_kinh_te_tai_chinh_MSB_Research_OSSB.pdf](https://vira.org.vn/upload/news/26/10/14/261014_Ban_tin_kinh_te_tai_chinh_MSB_Research_OSSB.pdf) (Xem bảng biểu và biểu đồ)
+
+---
+
+*Thu thập bởi `collect_vira_pdf.py` | 05:41 14/10/2026*
