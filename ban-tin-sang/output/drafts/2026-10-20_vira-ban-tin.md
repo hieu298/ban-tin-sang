@@ -1,0 +1,54 @@
+---
+date: 2026-10-20
+source: vira.org.vn × MSB Research
+published: 08:34 20/10/2026
+url: https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-20-10-2026-.html
+pdf: https://vira.org.vn/upload/news/26/10/20/261020_Ban_tin_kinh_te_tai_chinh_MSB_Research_ZOBD.pdf
+---
+
+# 📊 Bản tin Kinh tế - Tài chính | Thứ Ba 20/10/2026
+
+> **Nguồn**: [VIRA](https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-20-10-2026-.html) × MSB Research
+> **Đăng**: 08:34 20/10/2026 &nbsp;|&nbsp; **Lưu**: 05:36 20/10/2026
+
+> 💡 **Tại cuộc họp NHNN tổ chức với các TCTD về triển khai các giải pháp hoạt động NH, Thống đốc NHNN thông báo, tính đến 16/10, huy động vốn tăng trưởng 11,22%, tín dụng tăng 11,44%.**
+
+---
+
+## 🇻🇳 Tin trong nước
+
+Thị trường ngoại tệ: Phiên 19/10, NHNN niêm yết tỷ giá trung tâm ở mức 25.633 VND/USD, giảm 04 đồng so với phiên cuối tuần trước. Tỷ giá mua giao ngay được niêm yết ở mức 24.402 VND/USD, cao hơn 50 đồng so với tỷ giá sàn. Tỷ giá bán giao ngay được niêm yết ở mức 26.864 VND/USD, thấp hơn 50 đồng so với tỷ giá trần. Trên thị trường LNH, tỷ giá chốt phiên với mức 25.896 VND/USD, tăng nhẹ 03 đồng so với phiên 16/10. Tỷ giá trên thị trường tự do tăng 18 đồng ở cả hai chiều mua vào và bán ra, giao dịch tại 26.038 VND/USD và 26.138 VND/USD.
+
+### 🏦 Thị trường tiền tệ LNH: Ngày 19/10, lãi suất bình quân LNH VND giảm 0,10 đpt ở kỳ hạn ON trong khi giữ nguyên ở kỳ hạn 1W, tăng 0,10- 0,50 đpt ở kỳ hạn 2W và 1M so với phiên cuối tuần trước, giao dịch tại: ON 4,40%; 1W 4,60%; 2W 5,20% và 1M 5,60%. Lãi suất bình quân LNH USD đi ngang ở các kỳ hạn ngắn trong khi tăng 0,02 – 0,08 đpt ở các kỳ hạn 2W và 1M; giao dịch tại: ON 3,85%; 1W 3,89%; 2W 3,93%, 1M 4,09. Lợi suất TPCP trên thị trường thứ cấp biến động trái chiều, chốt phiên:
+
+3Y 3,72%; 5Y 4,28%; 7Y 4,34%; 10Y 4,47%; 15Y 4,57%.
+
+### ⚙️ Nghiệp vụ thị trường mở:
+
+Trên kênh cầm cố, NHNN chào thầu 1.000 tỷ đồng ở mỗi kỳ hạn 07 ngày, 14 ngày, 35 ngày và 91 ngày, lãi suất đều giữ ở mức 4,5%. Có 895,44 tỷ đồng trúng thầu ở các kỳ hạn 35 ngày và 91 ngày, không có khối lượng trúng thầu ở các kỳ hạn còn lại. Có 2.172,28 tỷ đồng đáo hạn. Như vậy, NHNN hút ròng 1.276,84 tỷ đồng từ thị trường qua nghiệp vụ thị trường mở phiên hôm qua. Có 103.656,14 tỷ đồng lưu hành trên kênh cầm cố.
+
+### 📈 Thị trường chứng khoán:
+
+Thị trường chứng khoán phiên đầu tuần phân hóa mạnh, VN-Index vẫn mất mốc 1.700 điểm. Kết phiên, VN-Index mất 16,07 điểm (-0,94%) về mức 1.689,84 điểm; HNX-Index giảm 1,22 điểm (-0,47%) xuống 257,91 điểm; UPCoM-Index nhích 0,15 điểm (+0,12%) lên 125,02 điểm. Thanh khoản thị trường vẫn ở mức thấp với giá trị giao dịch đạt gần 12.100 tỷ đồng. Khối ngoại bán ròng 580 tỷ đồng cả 3 sàn.
+Tại cuộc họp NHNN tổ chức với các TCTD về triển khai các giải pháp hoạt động NH, Thống đốc NHNN thông báo, tính đến 16/10, huy động vốn tăng trưởng 11,22%, tín dụng tăng 11,44%. Tăng trưởng tín dụng cao khiến chênh lệch giữa dư nợ cho vay và huy động vốn bằng VND vẫn ở mức lớn. Tuy nhiên, nếu như có giai đoạn mức chênh lệch này lên tới gần 2 triệu tỷ đồng thì hiện đã giảm xuống dưới 1,5 triệu tỷ đồng. NHNN yêu cầu các ngân hàng điều chỉnh giảm tối thiểu 0,5%/năm LS tiền gửi niêm yết đối với các kỳ hạn từ 6 tháng trở lên; tuyệt đối không chạy đua tăng LS huy động, cạnh tranh không lành mạnh, gây bất ổn an ninh tài chính - tiền tệ. Các NH đồng thời phải giảm LS cho vay, tập trung mức giảm từ 1,5-2%/năm đối với lĩnh vực sản xuất, kinh doanh và lĩnh vực ưu tiên.
+
+**Diễn biến Chỉ số Chứng khoán:**
+| Chỉ số | Điểm số | Thay đổi (+/-) | % Thay đổi |
+|---|---|---|---|
+| HNX-Index | 257,91 | -1,22 | -0,47% |
+
+## 🌍 Tin quốc tế
+
+Kinh tế Trung Quốc đón nhận thông tin khá tích cực. Theo Văn phòng Thống kê Trung Quốc, GDP nước này tăng 4,5% q/y trong quý III/2026, cao hơn mức tăng 4,3% quý trước đó, đồng thời cao hơn mức 4,4% dự báo của thị trường. 9 tháng đầu năm, nền kinh tế tăng trưởng 4,6%, nằm trong phạm vi mục tiêu tăng trưởng mà chính phủ nước này đề ra. Tốc độ tăng trưởng sản xuất công nghiệp tháng 9 tăng 5,5% y/y, cao hơn so với mức 5,2% của tháng 8 và dự báo ở mức 5,4%; trong khi đó, doanh số bán lẻ tháng 9 tăng mạnh 1,1% y/y từ mức 0,4% của  tháng 8, cao hơn dự báo tăng 0,5%. Đầu tư vào tài sản cố định 9 tháng giảm 7,2% ytd, tương đương mức giảm của 8 tháng, thấp hơn dự báo giảm 7,3%. Trên thị trường lao động, tỷ lệ thất nghiệp tháng 9 giảm nhẹ xuống mức 5,2% từ mức 5,3% của tháng 8, cũng là dự báo của thị trường. Theo các chuyên gia, mức tăng trưởng khả quan này được thúc đẩy bởi sự gia tăng mạnh mẽ của xuất khẩu, thặng dư thương mại của Trung Quốc trong tháng 9 đã mở rộng vượt kỳ vọng, giúp nước này tiếp đà vượt qua mức thặng dư kỷ lục 1,2 nghìn tỷ USD đạt được vào năm ngoái. Tuy nhiên, chi tiêu tiêu dùng vẫn còn trầm lắng, cho thấy sự phục hồi diễn ra không đồng đều. Thông điệp vĩ mô quan trọng ở đây là nền kinh tế Trung Quốc vẫn đang được dẫn dắt bởi phía cung và sản xuất. Chiến lược của Trung Quốc trong việc chuyển hướng tín dụng và nguồn lực từ lĩnh vực bất động sản sang các ngành công nghiệp công nghệ cao đã tạo ra một nền kinh tế phát triển với tốc độ không đồng đều: sản lượng công nghiệp và xuất khẩu tăng mạnh đã che khuất sự suy yếu trong tiêu dùng và đầu tư tư nhân. Điều này hỗ trợ cho tăng trưởng trong ngắn hạn và quá trình nâng cấp công nghiệp. Tuy nhiên, cần tiếp tục nỗ lực củng cố tiêu dùng hộ gia đình, nhu cầu dịch vụ và niềm tin người tiêu dùng để giúp quá trình phục hồi trở nên cân bằng và bền vững hơn.
+Bản tin Kinh tế - Tài chính ngày 20/10/2026
+<div
+
+---
+
+## 📎 Tải PDF đầy đủ
+
+[261020_Ban_tin_kinh_te_tai_chinh_MSB_Research_ZOBD.pdf](https://vira.org.vn/upload/news/26/10/20/261020_Ban_tin_kinh_te_tai_chinh_MSB_Research_ZOBD.pdf) (Xem bảng biểu và biểu đồ)
+
+---
+
+*Thu thập bởi `collect_vira_pdf.py` | 05:36 20/10/2026*
