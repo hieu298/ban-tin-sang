@@ -1,0 +1,55 @@
+---
+date: 2026-10-21
+source: vira.org.vn × MSB Research
+published: 08:20 21/10/2026
+url: https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-21-10-2026-.html
+pdf: https://vira.org.vn/upload/news/26/10/21/261021_Ban_tin_kinh_te_tai_chinh_MSB_Research_MGLX.pdf
+---
+
+# 📊 Bản tin Kinh tế - Tài chính | Thứ Tư 21/10/2026
+
+> **Nguồn**: [VIRA](https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-21-10-2026-.html) × MSB Research
+> **Đăng**: 08:20 21/10/2026 &nbsp;|&nbsp; **Lưu**: 05:37 21/10/2026
+
+> 💡 **Theo số liệu sơ bộ Cục Hải quan, Bộ Tài chính, vừa công bố, từ ngày 01-15/10/2026, Việt Nam xuất siêu khoảng 1,82 tỷ USD, lũy kế từ đầu năm đến 15/10, nhập siêu khoảng 17,67 tỷ USD.**
+
+---
+
+## 🇻🇳 Tin trong nước
+
+Thị trường ngoại tệ: Phiên 20/10, NHNN niêm yết tỷ giá trung tâm ở mức 25.639 VND/USD, tăng 06 đồng so với phiên đầu tuần. Tỷ giá mua giao ngay được niêm yết ở mức 24.408 VND/USD, cao hơn 50 đồng so với tỷ giá sàn. Tỷ giá bán giao ngay được niêm yết ở mức 26.870 VND/USD, thấp hơn 50 đồng so với tỷ giá trần. Trên thị trường LNH, tỷ giá chốt phiên với mức 25.878 VND/USD, giảm 18 đồng so với phiên 19/10. Tỷ giá trên thị trường tự do tăng 12 đồng ở cả hai chiều mua vào và bán ra, giao dịch tại 26.050 VND/USD và 26.150 VND/USD.
+
+### 🏦 Thị trường tiền tệ LNH: Ngày 20/10, lãi suất bình quân LNH VND giảm 0,20 – 0,80 đpt ở tất cả các kỳ hạn từ 1M trở xuống so với phiên đầu tuần, giao dịch tại: ON 3,60%; 1W 3,98%; 2W 5,00% và 1M 5,35%. Lãi suất bình quân LNH USD đi ngang ở kỳ hạn ON trong khi tăng 0,01 đpt ở kỳ hạn 1W, giảm 0,02 – 0,05 đpt ở các kỳ hạn còn lại; giao dịch tại: ON 3,85%; 1W 3,90%; 2W 3,91%, 1M 4,04. Lợi suất TPCP trên thị trường thứ cấp giảm nhẹ ở các kỳ hạn 7Y và 10Y trong khi giữ nguyên ở các kỳ hạn còn lại, chốt phiên với mức:
+
+3Y 3,72%; 5Y 4,28%; 7Y 4,34%; 10Y 4,47%; 15Y 4,57%.
+
+### ⚙️ Nghiệp vụ thị trường mở:
+
+Trên kênh cầm cố, NHNN chào thầu 1.000 tỷ đồng ở mỗi kỳ hạn 07 ngày, 14 ngày, 35 ngày và 91 ngày, lãi suất đều giữ ở mức 4,5%. Không có khối lượng trúng thầu ở cả 4 kỳ hạn. Có 5.414,77 tỷ đồng đáo hạn. Như vậy, NHNN hút ròng 5.414,77 tỷ đồng từ thị trường qua nghiệp vụ thị trường mở phiên hôm qua. Có 98.241,37 tỷ đồng lưu hành trên kênh cầm cố.
+
+### 📈 Thị trường chứng khoán:
+
+Trên thị trường chứng khoán phiên hôm qua, sau nhiều giằng co, thị trường khép lại phiên giao dịch hôm nay với sắc xanh ở cả 3 chỉ số. Kết phiên, VN-Index tăng nhẹ 2,13 điểm (+0,13%) lên mức 1.691,97 điểm; HNX-Index nhích 0,05 điểm (+0,02%) lên 257,96 điểm; UPCoM-Index thêm 0,20 điểm (+0,16%) đạt 125,22 điểm. Thanh khoản thị trường vẫn ở mức thấp với giá trị giao dịch đạt trên 11.700 tỷ đồng. Khối ngoại bán ròng 831 tỷ đồng trên cả 3 sàn.
+Theo số liệu sơ bộ Cục Hải quan, Bộ Tài chính, vừa công bố, từ ngày 01-15/10/2026, Việt Nam xuất siêu khoảng 1,82 tỷ USD, lũy kế từ đầu năm đến 15/10, nhập siêu khoảng 17,67 tỷ USD. Cụ thể, kỳ 1 tháng 10, XK cả nước đạt 29,25 tỷ USD, tăng 50,6% so với cùng kỳ 2025; NK đạt 27,43 tỷ USD, tăng 46,3%. Lũy kế từ đầu năm đến hết ngày 15/10, XK đạt 463,7 tỷ USD, tăng 25,9% so với cùng kỳ 2025, NK đạt 481,3 tỷ USD, tăng 37,2%. Tổng kim ngạch XNK lũy kế từ đầu năm đến 15/10 đạt 945,07 tỷ USD, vượt con số kỷ lục 930 tỷ USD của cả năm 2025.
+
+**Diễn biến Chỉ số Chứng khoán:**
+| Chỉ số | Điểm số | Thay đổi (+/-) | % Thay đổi |
+|---|---|---|---|
+| UPCoM-Index | 125,22 | +0,20 | +0,16% |
+
+## 🌍 Tin quốc tế
+
+Doanh số bán nhà chờ hoàn trong tháng 9 ở Mỹ giảm 7,3% m/m sau khi tăng 0,3% tháng trước đó, giảm sâu hơn dự báo ở mức -0,6%. So với cùng kỳ 2025, doanh số này giảm tới 11,3%. Số lượng dự án nhà ở khởi công trong tháng 9 ở mức 1,22 triệu căn, thấp hơn mức 1,29 triệu của tháng 8 và dự báo ở mức 1,30 triệu. Số cấp phép xây dựng tháng 9 đạt 1,4 triệu căn, bằng với số liệu của tháng trước đó và nhỉnh hơn dự báo với mức 1,39 triệu. Theo các chuyên gia, lãi suất vay thế chấp tăng nhanh trong tháng 9 gây tác động tiêu cực nghiêm trọng đến thị trường nhà ở. Mortgage News Daily cho biết, lãi suất bắt đầu tháng ở mức khoảng 6,8% và chạm mốc 7,6% vào cuối tháng, đồng thời dự báo hoạt động xây dựng nhà ở sẽ tiếp tục ảm đạm cho đến cuối năm 2027. Theo Hiệp hội Nhà xây dựng Quốc gia (NAHB), chỉ số đo lường tâm lý của các nhà xây dựng nhà ở trong tháng 10 đã rơi xuống mức thấp nhất trong 14 năm qua. Các chỉ số về doanh số hiện tại, kỳ vọng doanh số tương lai và lưu lượng khách hàng quan tâm đều sụt giảm, trong đó lưu lượng khách hàng ghi nhận mức thấp nhất.
+Theo Văn phòng Thống kê Anh ONS, tỷ lệ thất nghiệp nước này giảm xuống còn 4,7% trong giai đoạn 3 tháng 6-7-8, so với mức 4,9% của 3 tháng trước đó cũng là dự báo của thị trường, đây là mức thấp nhất trong hơn một năm qua. Tuy nhiên, số đơn xin trợ cấp thất nghiệp tăng tới 30.300 trong tháng 9, cao hơn hẳn mức tăng 7.000 và dự báo ở mức 19.400. Một điều đáng lo ngại là số lượng vị trí tuyển dụng đã ghi nhận mức sụt giảm lớn nhất kể từ đầu năm, với mức giảm 21.000 vị trí trong quý vừa qua. Bên cạnh đó, chỉ số thu nhập bình quân 3 tháng 6-7-8 cũng chỉ tăng 3,7% 3m/y, thấp hơn mức tăng 3,9% của 3 tháng liền trước và mức 3,8% theo dự báo. Việc số lượng việc làm trống giảm sâu chủ yếu tập trung ở các doanh nghiệp quy mô nhỏ, do họ gặp áp lực chi phí lao động tăng cao (bao gồm chi phí bảo hiểm xã hội, mức lương tối thiểu tăng và giá năng lượng biến động). Thị trường lao động nhìn chung vẫn duy trì thế phòng thủ khi giới chủ và người lao động chờ đợi các quyết định tài khóa và NS mới của Chính phủ Anh.
+Bản tin Kinh tế - Tài chính ngày 21/10/2026
+<div
+
+---
+
+## 📎 Tải PDF đầy đủ
+
+[261021_Ban_tin_kinh_te_tai_chinh_MSB_Research_MGLX.pdf](https://vira.org.vn/upload/news/26/10/21/261021_Ban_tin_kinh_te_tai_chinh_MSB_Research_MGLX.pdf) (Xem bảng biểu và biểu đồ)
+
+---
+
+*Thu thập bởi `collect_vira_pdf.py` | 05:37 21/10/2026*
