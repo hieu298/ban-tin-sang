@@ -1,0 +1,55 @@
+---
+date: 2026-10-27
+source: vira.org.vn × MSB Research
+published: 08:19 27/10/2026
+url: https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-27-10-2026-.html
+pdf: https://vira.org.vn/upload/news/26/10/27/261027_Ban_tin_kinh_te_tai_chinh_MSB_Research_AAUO.pdf
+---
+
+# 📊 Bản tin Kinh tế - Tài chính | Thứ Ba 27/10/2026
+
+> **Nguồn**: [VIRA](https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-27-10-2026-.html) × MSB Research
+> **Đăng**: 08:19 27/10/2026 &nbsp;|&nbsp; **Lưu**: 05:50 27/10/2026
+
+> 💡 **Bản tin Kinh tế - Tài chính ngày 27/10/2026**
+
+---
+
+## 🇻🇳 Tin trong nước
+
+Thị trường ngoại tệ: Phiên 26/10, NHNN niêm yết tỷ giá trung tâm ở mức 25.627 VND/USD, không thay đổi so với phiên cuối tuần trước. Tỷ giá mua giao ngay được niêm yết ở mức 24.396 VND/USD, cao hơn 50 đồng so với tỷ giá sàn. Tỷ giá bán giao ngay được niêm yết ở mức 26.858 VND/USD, thấp hơn 50 đồng so với tỷ giá trần. Trên thị trường LNH, tỷ giá chốt phiên với mức 25.842 VND/USD, tăng 18 đồng so với phiên 23/10. Tỷ giá trên thị trường tự do giảm 03 đồng ở cả hai chiều mua vào và bán ra, giao dịch tại 25.957 VND/USD và 26.057 VND/USD.
+
+### 🏦 Thị trường tiền tệ LNH: Ngày 26/10, lãi suất bình quân LNH VND tăng 0,10 – 0,90 đpt ở hầu hết các kỳ hạn từ 1M trở xuống ngoại trừ đi ngang ở kỳ hạn 2W so với phiên cuối tuần trước, giao dịch tại: ON 4,20%; 1W 5,10%; 2W 5,20% và 1M 5,50%. Lãi suất bình quân LNH USD đi ngang ở các kỳ hạn ON và 2W trong khi tăng 0,02 đpt ở các kỳ hạn 1W và 1M; giao dịch tại: ON 3,85%; 1W 3,91%; 2W 3,91%, 1M 4,03. Lợi suất TPCP trên thị trường thứ cấp giảm nhẹ ở các kỳ hạn 5Y và 10Y trong khi giữ nguyên ở các kỳ hạn còn lại, chốt phiên với mức:
+
+3Y 3,72%; 5Y 4,28%; 7Y 4,34%; 10Y 4,47%; 15Y 4,57%.
+
+### ⚙️ Nghiệp vụ thị trường mở:
+
+Trên kênh cầm cố, NHNN chào thầu 1.000 tỷ đồng ở mỗi kỳ hạn 07 ngày, 14 ngày, 35 ngày và 91 ngày, lãi suất đều giữ ở mức 4,5%. Có 2.000 tỷ đồng trúng thầu ở các kỳ hạn 14 ngày và 35 ngày, 2 kỳ hạn còn lại không có khối lượng trúng thầu. Có 7.064,26 tỷ đồng đáo hạn. Như vậy, NHNN hút ròng 5.064,26 tỷ đồng từ thị trường qua nghiệp vụ thị trường mở phiên hôm qua. Có 90.000,66 tỷ đồng lưu hành trên kênh cầm cố.
+
+### 📈 Thị trường chứng khoán:
+
+Trên thị trường chứng khoán phiên hôm qua, các chỉ số giao dịch quanh mốc tham chiếu, lực mua xuất hiện vào cuối phiên khiến các chỉ số chính kết phiên trong sắc đỏ. Chốt phiên, VN-Index giảm 10,60 điểm (-0,60%) về mức 1.763,55 điểm; HNX-Index mất 3,38 điểm (-1,29%) xuống 259,32 điểm; UPCoM-Index nhích 0,02 điểm (+0,02%) đạt 126,28 điểm. Thanh khoản thị trường giảm so với phiên trước đó với giá trị giao dịch đạt trên 12.500 tỷ đồng. Khối ngoại bán ròng 478 tỷ đồng trên cả 3 sàn.
+Theo Bộ Tài chính, dự toán thu NSNN năm 2026 là 2.529,5 nghìn tỷ đồng; thực hiện thu NSNN 9 tháng ước đạt 2.187 nghìn tỷ đồng, bằng 86,5% dự toán, tăng 12,1% so cùng kỳ năm 2025. Đánh giá cả năm, thu ước đạt 3.055,7 nghìn tỷ đồng, tăng 526,3 nghìn tỷ đồng  (20,8%) so dự toán và tăng 14% so với thực hiện năm 2025; tỷ lệ huy động vào NSNN đạt khoảng 20,8% GDP. Dự toán chi NSNN năm 2026 là 3.159,1 nghìn tỷ đồng; lũy kế chi NSNN 9 tháng đạt 1.873,7 nghìn tỷ đồng, bằng 59,3% dự toán, tăng 14,5% so cùng kỳ năm 2025. Dự toán cả năm, tổng chi NSNN ước đạt 3.677,9 nghìn tỷ đồng, tăng 518,8 nghìn tỷ đồng, bằng 116,4% dự toán; phần tăng chi tương ứng với nguồn tăng thu NSNN được phân bổ, sử dụng theo quy định của Luật NSNN.
+
+**Diễn biến Chỉ số Chứng khoán:**
+| Chỉ số | Điểm số | Thay đổi (+/-) | % Thay đổi |
+|---|---|---|---|
+| VN-Index | 1 | -10,60 | -0,60% |
+
+## 🌍 Tin quốc tế
+
+Chỉ số Niềm tin kinh doanh ifo của Đức trong tháng 10/2026 tăng lên mức 90,2 điểm, cao hơn mức 89,9 điểm của tháng 9, vượt qua kỳ vọng của các nhà phân tích ở mức 90,0 điểm. Trong đó, kỳ vọng kinh doanh tăng mạnh từ 90,4 điểm trong tháng 9 lên 91,6 điểm trong tháng 10, cho thấy doanh nghiệp lạc quan hơn về tương lai. Chỉ số tình hình hiện tại giảm nhẹ từ 89,5 điểm xuống 88,8 điểm, phản ánh việc các công ty đánh giá tình hình hiện tại vẫn còn một số khó khăn. Ngành sản xuất ghi nhận mức tăng trưởng tâm lý đặc biệt mạnh mẽ ở cả tình hình hiện tại lẫn kỳ vọng sắp tới. Các chuyên gia nhận định, sự cải thiện kinh doanh ở Đức vẫn diễn ra bất chấp chi phí năng lượng cao và các áp lực lãi suất từ NHTW Châu Âu ECB.
+Doanh số bán lẻ tại Anh tích cực hơn dự báo. Theo Khảo sát Hoạt động Thương mại mới nhất từ CBI, doanh số bán lẻ tháng 10 của Anh thu hẹp với tốc độ chậm nhất kể từ tháng 4/2025 với mức -10, cải thiện so với mức -55 của tháng 9, tích cực hơn nhiều so với mức -47 theo dự báo của thị trường. Theo nhận định của CBI, tình trạng suy giảm doanh số bán lẻ đã dịu bớt trong tháng 10, với tốc độ sụt giảm theo năm chậm nhất trong hơn một năm qua. Các doanh nghiệp bán buôn và kinh doanh ô tô cũng ghi nhận những dấu hiệu cho thấy hoạt động đang dần ổn định trong cùng giai đoạn này. Tuy nhiên, triển vọng vẫn còn bấp bênh khi các doanh nghiệp phải đối mặt với những trở ngại từ tâm lý chi tiêu thận trọng của các hộ gia đình và chi phí nhiên liệu tăng cao. Việc chính phủ cắt giảm khoản đóng góp Bảo hiểm Quốc gia của người sử dụng lao động và thực hiện cải cách thuế doanh nghiệp một cách hiệu quả giúp giảm bớt gánh nặng chi phí cho các nhà bán lẻ, doanh nghiệp bán buôn và kinh doanh ô tô, tạo điều kiện để họ đầu tư, tuyển dụng và phát triển.
+Bản tin Kinh tế - Tài chính ngày 27/10/2026
+<div
+
+---
+
+## 📎 Tải PDF đầy đủ
+
+[261027_Ban_tin_kinh_te_tai_chinh_MSB_Research_AAUO.pdf](https://vira.org.vn/upload/news/26/10/27/261027_Ban_tin_kinh_te_tai_chinh_MSB_Research_AAUO.pdf) (Xem bảng biểu và biểu đồ)
+
+---
+
+*Thu thập bởi `collect_vira_pdf.py` | 05:50 27/10/2026*
