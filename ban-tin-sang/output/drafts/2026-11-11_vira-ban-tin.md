@@ -1,0 +1,55 @@
+---
+date: 2026-11-11
+source: vira.org.vn × MSB Research
+published: 08:08 11/11/2026
+url: https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-11-11-2026-.html
+pdf: https://vira.org.vn/upload/news/26/11/11/261111_Ban_tin_kinh_te_tai_chinh_MSB_Research_JWHS.pdf
+---
+
+# 📊 Bản tin Kinh tế - Tài chính | Thứ Tư 11/11/2026
+
+> **Nguồn**: [VIRA](https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-11-11-2026-.html) × MSB Research
+> **Đăng**: 08:08 11/11/2026 &nbsp;|&nbsp; **Lưu**: 07:25 11/11/2026
+
+> 💡 **Ngày 09/11, Quốc hội biểu quyết thông qua Nghị quyết về dự toán NSNN năm 2027.**
+
+---
+
+## 🇻🇳 Tin trong nước
+
+Thị trường ngoại tệ: Phiên 10/11, NHNN niêm yết tỷ giá trung tâm ở mức 25.600 VND/USD, giảm 10 đồng so với phiên đầu tuần. Tỷ giá mua giao ngay được niêm yết ở mức 24.370 VND/USD, cao hơn 50 đồng so với tỷ giá sàn. Tỷ giá bán giao ngay được niêm yết ở mức 26.830 VND/USD, thấp hơn 50 đồng so với tỷ giá trần. Trên thị trường LNH, tỷ giá chốt phiên với mức 25.605 VND/USD, tăng 58 đồng so với phiên 09/11. Tỷ giá trên thị trường tự do giảm 86 đồng ở cả hai chiều mua vào và bán ra, giao dịch tại 25.750 VND/USD và 25.860 VND/USD.
+
+### 🏦 Thị trường tiền tệ LNH: Ngày 10/11, lãi suất bình quân LNH VND giảm 0,10 – 0,20 đpt ở hầu hết các kỳ hạn từ 1M trở xuống ngoại trừ đi ngang ở kỳ hạn 2W so với phiên đầu tuần, giao dịch tại: ON 4,40%; 1W 4,80%; 2W 5,10% và 1M 5,40%. Lãi suất bình quân LNH USD giảm 0,01 đpt ở kỳ hạn ON trong khi tăng 0,01 – 0,05 đpt ở các kỳ hạn còn lại; giao dịch tại: ON 3,84%; 1W 3,91%; 2W 3,93%, 1M 4,08. Lợi suất TPCP trên thị trường thứ cấp biến động trái chiều, chốt phiên ở mức:
+
+3Y 3,72%; 5Y 4,27%; 7Y 4,34%; 10Y 4,46%; 15Y 4,57%.
+
+### ⚙️ Nghiệp vụ thị trường mở:
+
+Trên kênh cầm cố, NHNN chào thầu 1.000 tỷ đồng ở mỗi kỳ hạn 07 ngày và 91 ngày, 2.000 tỷ đồng ở mỗi kỳ hạn 14 ngày và 35 ngày, lãi suất đều ở mức 4,5%. Có 2.716,63 tỷ đồng trúng thầu ở 2 kỳ hạn 14 ngày và 35 ngày, các kỳ hạn còn lại không có khối lượng trúng thầu. Có 12.077,61 tỷ đồng đáo hạn. Như vậy, NHNN hút ròng 9.360,98 tỷ đồng từ thị trường qua nghiệp vụ thị trường mở phiên hôm qua. Có 115.500,61 tỷ đồng lưu hành trên kênh cầm cố.
+
+### 📈 Thị trường chứng khoán:
+
+Thị trường chứng khoán phiên hôm qua diễn biến tích cực, thanh khoản được cải thiện. Kết phiên, VN-Index tăng mạnh 28,75 điểm (+1,68%) lên mức 1.743,07 điểm; HNX-Index thêm 1,02 điểm (+0,40%) đạt 256,26 điểm; UPCoM-Index lùi 0,04 điểm (-0,03%) còn 121,41 điểm. Thanh khoản thị trường tăng với giá trị giao dịch đạt hơn 14.000 tỷ đồng. Khối ngoại bán ròng 820 tỷ đồng trên cả 3 sàn.
+Ngày 09/11, Quốc hội biểu quyết thông qua Nghị quyết về dự toán NSNN năm 2027. Theo Nghị quyết, tổng số thu NSNN năm 2027 là 3.334.338 tỷ đồng, tăng khoảng 9,1% so với thực hiện năm 2026. Trong đó, thu NSTW là 1.775.593 tỷ đồng, thu NSĐP là 1.558.745 tỷ đồng. Tổng chi NSNN được quyết định ở mức 4.073.935 tỷ đồng. Trong đó, chi NSTW là 2.364.411 tỷ đồng, chi NSĐP là 1.709.524 tỷ đồng. Nghị quyết xác định mức bội chi NSNN năm 2027 là 739.597 tỷ đồng, tương đương 4,5% GDP. Trong đó, bội chi NSTW là 588.818 tỷ đồng, tương đương 3,6% GDP; bội chi NSĐP là 150.779 tỷ đồng, tương đương 0,9% GDP. Tổng mức vay của NSNN là 1.279.717 tỷ đồng.
+
+**Diễn biến Chỉ số Chứng khoán:**
+| Chỉ số | Điểm số | Thay đổi (+/-) | % Thay đổi |
+|---|---|---|---|
+| HNX-Index | 256,26 | +1,02 | +0,40% |
+
+## 🌍 Tin quốc tế
+
+Lạm phát Mỹ tăng vượt kỳ vọng. Hôm qua, Văn phòng Thống kê Lao động Mỹ công bố, chỉ số giá tiêu dùng CPI nước này  tăng 0,4% m/m trong tháng 10, thấp hơn mức tăng 0,6% của tháng trước đó nhưng cao hơn dự báo với mức 0,3%. Tháng 10, CPI lõi tăng 0,3% m/m bằng với mức tăng của tháng 9 và cũng cao hơn dự báo 0,2%. Đóng góp vào mức tăng chung là nhóm năng lượng tăng 0,7%, riêng giá xăng tăng 1,0%, thực phẩm tăng 0,5%, dịch vụ vận tải tăng mạnh 0,8%, chi phí nhà ở (chiếm tỷ trọng lớn trong CPI) tiếp tục tăng 0,3%. Số liệu lạm phát cao hơn dự báo khiến một số quan chức Cục Dự trữ Liên bang Mỹ Fed, như Thống đốc Christopher Waller, cân nhắc khả năng tăng lãi suất 50 đcb trong kỳ họp tháng 12 tới thay vì mức 25 đcb như kỳ vọng của thị trường.
+Thặng dư cán cân thương mại hàng hóa của Trung Quốc thu hẹp nhẹ. Theo Tổng cục Thống kê Trung Quốc, cán cân thương mại của nước này thu hẹp xuống mức thặng dư 105,28 tỷ USD trong tháng 10, thấp hơn so với kỳ vọng 126,50 tỷ USD và giảm so với mức thặng dư 133,53 tỷ USD của tháng 9. Sự thu hẹp của CCTM một phần xuất phát từ đà tăng gần đây của đồng CNY, khi đồng tiền này chạm mức cao nhất trong hơn bốn năm vào tháng 10, sau một loạt các mức tỷ giá tham chiếu mạnh do Ngân hàng Nhân dân Trung Quốc PBOC ấn định. Nhập khẩu tăng vọt 41,6% y/y trong tháng 10, vượt kỳ vọng 32%, cũng là yếu tố kéo giảm CCTM của Trung Quốc, trong bối cảnh nhu cầu trong nước đối với các vật liệu phục vụ phát triển cơ sở hạ tầng trí tuệ nhân tạo ngày càng tăng cao. Tăng trưởng xuất khẩu của Trung Quốc cũng vượt kỳ vọng trong tháng 10, với mức tăng 35,2% y/y, cao hơn so với dự báo 33,5%. Lũy kế 10 tháng năm 2026, thặng dư thương mại Trung Quốc đạt 1.040 tỷ USD.
+Bản tin Kinh tế - Tài chính ngày 11/11/2026
+<div
+
+---
+
+## 📎 Tải PDF đầy đủ
+
+[261111_Ban_tin_kinh_te_tai_chinh_MSB_Research_JWHS.pdf](https://vira.org.vn/upload/news/26/11/11/261111_Ban_tin_kinh_te_tai_chinh_MSB_Research_JWHS.pdf) (Xem bảng biểu và biểu đồ)
+
+---
+
+*Thu thập bởi `collect_vira_pdf.py` | 07:25 11/11/2026*
