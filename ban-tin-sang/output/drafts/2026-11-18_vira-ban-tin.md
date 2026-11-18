@@ -1,0 +1,56 @@
+---
+date: 2026-11-18
+source: vira.org.vn × MSB Research
+published: 08:36 18/11/2026
+url: https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-18-11-2026-.html
+pdf: https://vira.org.vn/upload/news/26/11/18/261118_Ban_tin_kinh_te_tai_chinh_MSB_Research_FAVE.pdf
+---
+
+# 📊 Bản tin Kinh tế - Tài chính | Thứ Tư 18/11/2026
+
+> **Nguồn**: [VIRA](https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-18-11-2026-.html) × MSB Research
+> **Đăng**: 08:36 18/11/2026 &nbsp;|&nbsp; **Lưu**: 08:07 18/11/2026
+
+> 💡 **Theo số liệu tổng hợp từ báo cáo tài chính quý III/2026 của 28 NHTM niêm yết, tổng nợ xấu nội bảng (nhóm 3-5) tính đến ngày 30/09 đạt hơn 340.815 tỷ đồng, tăng 26,9% so với đầu năm.**
+
+---
+
+## 🇻🇳 Tin trong nước
+
+Thị trường ngoại tệ: Phiên 17/11, NHNN niêm yết tỷ giá trung tâm ở mức 25.652 VND/USD, tăng 13 đồng so với phiên cuối tuần trước. Tỷ giá mua giao ngay được niêm yết ở mức 25.500 VND/USD. Tỷ giá bán giao ngay được niêm yết ở mức 26.884 VND/USD, thấp hơn 50 đồng so với tỷ giá trần. Trên thị trường LNH, tỷ giá chốt phiên với mức 25.708 VND/USD, giảm 44 đồng so với phiên 16/11. Tỷ giá trên thị trường tự do tăng 132 đồng ở cả hai chiều mua vào và bán ra, giao dịch tại 25.967 VND/USD và 26.067 VND/USD.
+
+### 🏦 Thị trường tiền tệ LNH: Ngày 17/11, lãi suất bình quân LNH VND giảm 0,10-0,20 đpt ở kỳ hạn ON và 1W trong khi tăng 0,20 đpt ở kỳ hạn 2W và giữ nguyên ở kỳ hạn 1M so với phiên 16/11, giao dịch tại: ON 4,90%; 1W 5,10%; 2W 5,50% và 1M 5,50%. Lãi suất bình quân LNH USD đi ngang ở các kỳ hạn ON và 1W trong khi giảm 0,01 đpt ở kỳ hạn 2W và tăng 0,01 đpt ở kỳ hạn 1M; giao dịch tại: ON 3,85%; 1W 3,90%; 2W 3,92%, 1M 4,02%. Lợi suất TPCP trên thị trường thứ cấp không thay đổi ở hầu hết các kỳ hạn ngoại trừ giảm nhẹ ở các kỳ hạn 5Y và 10Y, chốt phiên:
+
+3Y 3,72%; 5Y 4,26%; 7Y 4,34%; 10Y 4,46%; 15Y 4,57%.
+
+### ⚙️ Nghiệp vụ thị trường mở:
+
+Trên kênh cầm cố, NHNN chào thầu 1.000 tỷ đồng ở mỗi kỳ hạn 07 ngày, 14 ngày, và 91 ngày, 2.000 tỷ đồng ở kỳ hạn 35 ngày, lãi suất đều ở mức 4,5%. Có 2.771,09 tỷ đồng trúng thầu ở cả 4 kỳ hạn. Có 3.411,36 tỷ đồng đáo hạn. Như vậy, NHNN hút ròng 640,27 tỷ đồng từ thị trường qua nghiệp vụ thị trường mở phiên hôm qua. Có 98.599,50 tỷ đồng lưu hành trên kênh cầm cố.
+
+### 📈 Thị trường chứng khoán:
+
+Thị trường chứng khoán phiên hôm qua tiếp tục giằng co, thanh khoản cạn kiệt. Kết phiên, VN-Index giảm 10,17 điểm (-0,59%) xuống mức 1.726,72 điểm; HNX-Index giảm mạnh 6,31 điểm (-2,48%) còn 248,60 điểm; UPCoM-Index thêm 0,37 điểm (+0,30%) đạt 122,50 điểm. Thanh khoản thị trường ở mức thấp với giá trị giao dịch đạt gần 10.200 tỷ đồng. Khối ngoại mua ròng nhẹ gần 10 tỷ đồng trên cả 3 sàn.
+Theo số liệu tổng hợp từ báo cáo tài chính quý III/2026 của 28 NHTM niêm yết, tổng nợ xấu nội bảng (nhóm 3-5) tính đến ngày 30/09 đạt hơn 340.815 tỷ đồng, tăng 26,9% so với đầu năm, tương ứng tăng hơn 72.235 tỷ đồng. Đáng chú ý, tốc độ tăng nợ xấu cao hơn đáng kể mức tăng trưởng cho vay khách hàng, vốn ở mức 12,5%. Tính chung, tổng dư nợ từ nhóm 2 đến nhóm 5 đạt 593.864 tỷ đồng, tương đương 3,69% tổng dư nợ cho vay khách hàng, tăng so với mức 3,4% cuối quý II. Một trong những cơ sở pháp lý mới cho quá trình này là Nghị định 359/2026/NĐ-CP, có hiệu lực từ ngày 6/11/2026. Nghị định quy định về thành lập, tổ chức, hoạt động và cơ chế tài chính của VAMC, đồng thời mở rộng vai trò và công cụ của đơn vị này trong xử lý nợ xấu, tài sản bảo đảm.
+Bản tin Kinh tế - Tài chính ngày 18/11/2026
+
+**Diễn biến Chỉ số Chứng khoán:**
+| Chỉ số | Điểm số | Thay đổi (+/-) | % Thay đổi |
+|---|---|---|---|
+| VN-Index | 1 | -10,17 | -0,59% |
+| UPCoM-Index | 122,50 | +0,37 | +0,30% |
+
+## 🌍 Tin quốc tế
+
+Theo báo cáo ước tính sơ bộ của Cục Điều tra Dân số Hoa Kỳ, doanh số bán lẻ và dịch vụ ăn uống của Mỹ trong tháng 10 tăng 0,2% m/m và tăng 6,8% y/y, vượt nhẹ so với dự báo 0,1% của thị trường nhưng đã giảm tốc so với đà tăng 0,8% của tháng 9. Doanh số bán lẻ lõi khi loại trừ ô tô và xăng dầu, tăng 0,6% m/m, sau khi tăng mạnh 1,1% tháng trước đó nhưng cao hơn mức tăng 0,6% dự báo của thị trường. Nhóm tăng trưởng dẫn đầu gồm bán lẻ tổng hợp khác tăng 4,7%, trạm xăng tăng 1,5%, cửa hàng sức khỏe và chăm sóc cá nhân tăng 1,5%, và thương mại điện tử tăng 1,2%, trong khi đại lý ô tô và phụ tùng giảm 1,6%, đồ nội thất và trang trí nhà cửa giảm 2,3%, cửa hàng quần áo giảm 0,7%, đồ thể thao giảm 0,7%, và cửa hàng thực phẩm đồ uống giảm nhẹ 0,2%.
+Theo Văn phòng Thống kê Anh, thu nhập bình quân ở nước này 3 tháng 7-8-9 tăng 3,6% 3m/y, tuy giảm từ mức tăng 3,8% của 3 tháng liền trước đó nhưng cao hơn dự báo của thị trường ở mức 35%. Tỷ lệ thất nghiệp tại Anh tháng 9 cũng giảm xuống mức 4,6% từ mức 4,7% của tháng 8 cũng là dự báo của thị trường. Mức này giảm 0,3 đpt so với cả quý trước và cùng kỳ năm ngoái. Tuy nhiên, số đơn xin trợ cấp thất nghiệp ở nước này tăng tới 33,2 nghìn đơn trong tháng 10, tăng vọt từ mức tăng 9,8 nghìn của tháng 9 và cao hơn dự báo ở mức 25,4 nghìn. Nhu cầu tuyển dụng tiếp tục thu hẹp, số lượng vị trí việc làm trống giảm 5% y/y, đánh dấu mức thấp nhất kể từ năm 2014 nếu không tính giai đoạn đại dịch. Thị trường lao động đang ở trạng thái giằng co trước thềm công bố số liệu lạm phát tháng 10 vào ngày hôm nay 18/11 (dự báo ở mức 3,6%). Sau khi NHTW Anh BOE vừa tăng LSCS lên 4% đầu tháng 11, các nhà kinh tế đang chia rẽ về việc liệu cơ quan này sẽ tiếp tục thắt chặt vào tháng 12 để kìm chế áp lực tiền lương hay sớm phải hạ nhiệt lãi suất vào năm 2027 do thị trường việc làm thực tế suy yếu.
+<div
+
+---
+
+## 📎 Tải PDF đầy đủ
+
+[261118_Ban_tin_kinh_te_tai_chinh_MSB_Research_FAVE.pdf](https://vira.org.vn/upload/news/26/11/18/261118_Ban_tin_kinh_te_tai_chinh_MSB_Research_FAVE.pdf) (Xem bảng biểu và biểu đồ)
+
+---
+
+*Thu thập bởi `collect_vira_pdf.py` | 08:07 18/11/2026*
