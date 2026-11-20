@@ -1,0 +1,56 @@
+---
+date: 2026-11-20
+source: vira.org.vn × MSB Research
+published: 08:31 20/11/2026
+url: https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-20-11-2026-.html
+pdf: https://vira.org.vn/upload/news/26/11/20/261120_Ban_tin_kinh_te_tai_chinh_MSB_Research_UTBU.pdf
+---
+
+# 📊 Bản tin Kinh tế - Tài chính | Thứ Sáu 20/11/2026
+
+> **Nguồn**: [VIRA](https://vira.org.vn/tin/Ban-tin-Kinh-te-Tai-chinh-ngay/Ban-tin-Kinh-te-Tai-chinh-ngay-20-11-2026-.html) × MSB Research
+> **Đăng**: 08:31 20/11/2026 &nbsp;|&nbsp; **Lưu**: 07:57 20/11/2026
+
+> 💡 **NHNN đang lấy ý kiến dự thảo Thông tư sửa đổi, bổ sung một số điều của Thông tư 21/2025/TT-NHNN ngày 31/7/2025 về xếp hạng tổ chức tín dụng, chi nhánh ngân hàng nước ngoài.**
+
+---
+
+## 🇻🇳 Tin trong nước
+
+Thị trường ngoại tệ: Phiên 19/11, NHNN niêm yết tỷ giá trung tâm ở mức 25.646 VND/USD, giảm 10 đồng so với phiên trước đó. Tỷ giá mua giao ngay được niêm yết ở mức 25.500 VND/USD. Tỷ giá bán giao ngay được niêm yết ở mức 26.878 VND/USD, thấp hơn 50 đồng so với tỷ giá trần. Trên thị trường LNH, tỷ giá chốt phiên với mức 25.748 VND/USD, tăng 18 đồng so với phiên 18/11. Tỷ giá trên thị trường tự do giảm 07 đồng ở chiều mua vào và 17 đồng ở chiều bán ra, giao dịch tại 26.027 VND/USD và 26.137 VND/USD.
+
+### 🏦 Thị trường tiền tệ LNH: Ngày 19/11, lãi suất bình quân LNH VND tăng 0,15 - 0,20 đpt ở các kỳ hạn ngắn trong khi giữ nguyên ở kỳ hạn 2W và tăng 0,08 đpt ở kỳ hạn 1M so với phiên trước đó, giao dịch tại: ON 4,70%; 1W 4,95%; 2W 5,40% và 1M 5,50%. Lãi suất bình quân LNH USD đi ngang ở hầu hết các kỳ hạn ngoại trừ giảm 0,03 đpt ở kỳ hạn 1M; giao dịch tại: ON 3,85%; 1W 3,90%; 2W 3,93%, 1M 4,01%. Lợi suất TPCP trên thị trường thứ cấp không thay đổi ở các kỳ hạn 3Y và 15Y trong khi giảm ở các kỳ hạn còn lại, chốt phiên:
+
+3Y 3,72%; 5Y 4,26%; 7Y 4,33%; 10Y 4,46%; 15Y 4,57%.
+
+### ⚙️ Nghiệp vụ thị trường mở:
+
+Trên kênh cầm cố, NHNN chào thầu 1.000 tỷ đồng ở mỗi kỳ hạn 07 ngày, 35 ngày và 91 ngày, 3.000 tỷ đồng kỳ hạn 14 ngày, lãi suất đều ở mức 4,5%. Có 2.714 tỷ đồng trúng thầu ở cả 4 kỳ hạn. Có 1.823,63 tỷ đồng đáo hạn. Như vậy, NHNN bơm ròng 890 tỷ đồng ra thị trường qua nghiệp vụ thị trường mở phiên hôm qua. Có 99.393 tỷ đồng lưu hành trên kênh cầm cố.
+
+### 📈 Thị trường chứng khoán:
+
+Thị trường chứng khoán phiên hôm qua tiếp tục đỏ sàn, VN-Index mất mốc 1.700 điểm. Kết phiên, VN-Index giảm 13,39 điểm (-0,79%) xuống mức 1.689,62 điểm; HNX-Index mất 3,79 điểm (-1,56%) còn 238,94 điểm; UPCoM-Index lùi 0,76 điểm (-0,63%) về 120,36 điểm. Thanh khoản thị trường giảm nhẹ với giá trị giao dịch đạt gần 10.000 tỷ đồng. Khối ngoại bán ròng mạnh hơn 1.110 tỷ đồng cả 3 sàn.
+NHNN đang lấy ý kiến dự thảo Thông tư sửa đổi, bổ sung một số điều của Thông tư 21/2025/TT-NHNN ngày 31/7/2025 về xếp hạng tổ chức tín dụng, chi nhánh ngân hàng nước ngoài. Theo Thông tư 21/2025/TT-NHNN, NHTM thuộc nhóm quy mô lớn nếu tổng tài sản bình quân theo quý trong năm xếp hạng trên 300.000 tỷ đồng. Các NH có tổng tài sản bình quân bằng hoặc thấp hơn mức này thuộc nhóm quy mô nhỏ. NHNN đề xuất giữ ngưỡng 300.000 tỷ đồng cho năm xếp hạng 2026 và nâng lên 500.000 tỷ đồng từ năm xếp hạng 2027. Những NH có tổng tài sản bình quân theo quý trên 500.000 tỷ đồng mới được phân vào nhóm quy mô lớn. Những NH có tổng tài sản bình quân bằng hoặc thấp hơn mức này thuộc nhóm quy mô nhỏ.
+Theo điều hành của liên Bộ Công Thương - Tài chính ngày 19/11, mỗi lít xăng E10 RON 95-III giảm 740 đồng, xuống 19.100 đồng/lít; E5 RON 92 hạ 820 đồng, còn 18.670 đồng/lít. Tương tự, các mặt hàng dầu cũng giảm 480-1.070 đồng/lít, kg, trong đó diesel có giá mới 26.340 đồng/lít, mazut 18.670 đồng/kg. Như vậy, từ đầu tháng 11, giá xăng trong nước đã có 5 kỳ được điều chỉnh giảm; dầu diesel một lần giữ nguyên và 4 kỳ hạ. Tổng cộng, mỗi lít xăng E10 hạ 6.630 đồng, dầu diesel hạ 3.900 đồng so với cuối tháng trước.
+
+**Diễn biến Chỉ số Chứng khoán:**
+| Chỉ số | Điểm số | Thay đổi (+/-) | % Thay đổi |
+|---|---|---|---|
+| VN-Index | 1 | -13,39 | -0,79% |
+
+## 🌍 Tin quốc tế
+
+Theo báo cáo của Bộ Lao động Mỹ, số đơn xin trợ cấp thất nghiệp lần đầu tại Mỹ trong tuần kết thúc ngày 14/11 ở mức 203.000 đơn, tăng 1.000 đơn so với mức điều chỉnh của tuần trước là 202.000 đơn (điều chỉnh từ 200.000 đơn), cao hơn dự báo ban đầu là 198.000 đơn. Đây là số liệu cao nhất kể từ giữa tháng 9/2026. Số đơn trung bình 4 tuần gần nhất tăng 2.000 so với 4 tuần liền trước đó lên mức 197.750 đơn. Số đơn xin tiếp tục nhận trợ cấp (tuần kết thúc 7/11) tăng 70.000 lên 1,763 triệu đơn. Có thể thấy, thị trường lao động Mỹ vẫn vững vàng, mức 203.000 đơn và trung bình 4 tuần dưới 200.000 cho thấy tỷ lệ sa thải ở Mỹ vẫn ở mức thấp. Cục Dự trữ Liên bang Mỹ Fed chưa có lý do cấp bách phải nới lỏng chính sách nhanh chóng vì rủi ro suy giảm việc làm đột ngột chưa rõ nét. Vì vậy, đối với CSTT, lạm phát vẫn là biến số chi phối.
+Theo Văn phòng Thống kê Úc ABS, tỷ lệ thất nghiệp nước này tháng 10 bất ngờ tăng lên mức 4,9%, trái với dự báo của thị trường là đi ngang như tháng trước đó ở mức 4,7%, đánh dấu mức cao nhất 5 năm qua kể từ sau đại dịch Covid. Số người thất nghiệp tăng thêm 17.800 người, nâng tổng số lên 753.700 người. Bên cạnh đó, số lượng nhân công được tuyển dụng trong tháng 10 giảm 43.500 vị trí, tiếp nối đà giảm 36.400 của tháng trước đó, trái với dự báo tăng thêm 25.500 việc làm. Các chuyên gia cho biết, nhu cầu tuyển dụng ở nước này hạ nhiệt trong tháng 10, lượng tin tuyển dụng trực tuyến trong tháng 10 giảm 3,9%. Trong năm qua, dân số trong độ tuổi lao động của Úc tăng 1,9% nhưng số lượng việc làm chỉ tăng 1,2%, tạo ra sự chênh lệch cung cầu lớn. Diễn biến này củng cố dự báo của giới phân tích rằng NHTW Úc RBA sẽ tạm dừng chu kỳ thắt chặt và giữ nguyên mức lãi suất 4,85% trong cuộc họp tháng 12 tới.
+Bản tin Kinh tế - Tài chính ngày 20/11/2026
+<div
+
+---
+
+## 📎 Tải PDF đầy đủ
+
+[261120_Ban_tin_kinh_te_tai_chinh_MSB_Research_UTBU.pdf](https://vira.org.vn/upload/news/26/11/20/261120_Ban_tin_kinh_te_tai_chinh_MSB_Research_UTBU.pdf) (Xem bảng biểu và biểu đồ)
+
+---
+
+*Thu thập bởi `collect_vira_pdf.py` | 07:57 20/11/2026*
